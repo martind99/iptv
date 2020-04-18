@@ -1,3 +1,586 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - FTA #####" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/GERMANY.png" group-title="EU | GERMANY & AUSTRIA",##### DE - FTA #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33574
+#EXTINF:-1 tvg-id="" tvg-name="DE - CORONA VIRUS INFO" tvg-logo="http://212.8.253.112/logo/corona.png" group-title="EU | GERMANY & AUSTRIA",DE - CORONA VIRUS INFO
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/83147
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE - DAS ERSTE HD (ARD)*" tvg-logo="http://212.8.253.112/logo/GERMANY/DASERSTEHD(ARD).png" group-title="EU | GERMANY & AUSTRIA",DE - DAS ERSTE HD (ARD)*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33572
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE - DAS ERSTE (ARD)" tvg-logo="http://212.8.253.112/logo/GERMANY/DASERSTE(ARD).png" group-title="EU | GERMANY & AUSTRIA",DE - DAS ERSTE (ARD)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33573
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE - ARTE HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ARTEHD.png" group-title="EU | GERMANY & AUSTRIA",DE - ARTE HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33571
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE - 3 SAT*" tvg-logo="http://212.8.253.112/logo/GERMANY/3SAT.png" group-title="EU | GERMANY & AUSTRIA",DE - 3 SAT*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33568
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE - ZDF HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/ZDFHD.png" group-title="EU | GERMANY & AUSTRIA",DE - ZDF HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33570
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE - ZDF NEO" tvg-logo="http://212.8.253.112/logo/GERMANY/ZDFNEO.png" group-title="EU | GERMANY & AUSTRIA",DE - ZDF NEO
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33569
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE - RTL" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33567
+#EXTINF:-1 tvg-id="atv2.at" tvg-name="DE - RTLII HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTLII HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70098
+#EXTINF:-1 tvg-id="" tvg-name="DE - RTL TELEVISION" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL TELEVISION
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70097
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE - RTL2" tvg-logo="http://212.8.253.112/logo/GERMANY/RTL2.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL2
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33566
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE - RTL PLUS*" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLPLUS.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL PLUS*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33565
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE - RTL NITRO" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLNITRO.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL NITRO
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33562
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE - SIXX HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SIXXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SIXX HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33550
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE - PROSIEBEN HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/PROSIEBEN.png" group-title="EU | GERMANY & AUSTRIA",DE - PROSIEBEN HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33547
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE - SAT 1 HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/SAT1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SAT 1 HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33552
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE - SAT 1 GOLD HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/SAT1GOLDHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SAT 1 GOLD HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33551
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE - VOX HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/VOXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - VOX HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33549
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE - VOX" tvg-logo="http://212.8.253.112/logo/GERMANY/VOX.png" group-title="EU | GERMANY & AUSTRIA",DE - VOX
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33560
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE - PHOENIX HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/PHOENIX.png" group-title="EU | GERMANY & AUSTRIA",DE - PHOENIX HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70099
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE - KABEL EINS HD*" tvg-logo="http://212.8.253.112/logo/GERMANY/KABELEINS.png" group-title="EU | GERMANY & AUSTRIA",DE - KABEL EINS HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70100
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE - KABEL 1 CLASSICS HD" tvg-logo="http://212.8.253.112/logo/GERMANY/KABEL1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - KABEL 1 CLASSICS HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70101
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE - TELE 5 HD" tvg-logo="http://212.8.253.112/logo/LATINO/TELETRAK.png" group-title="EU | GERMANY & AUSTRIA",DE - TELE 5 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33544
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE - ANIXE HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ANIXEHD.png" group-title="EU | GERMANY & AUSTRIA",DE - ANIXE HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33472
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE - DMAX HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/DMAXHDPLUS.png" group-title="EU | GERMANY & AUSTRIA",DE - DMAX HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33545
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE - ZDF INFO HD*" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",DE - ZDF INFO HD*
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/83173
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - SPORT #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - SPORT #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33454
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE - SKY SPORT NEWS HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORTNEWSHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT NEWS HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33453
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE - SKY SPORT 1" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT1.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 1
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33443
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE - SKY SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33445
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE - SKY SPORT 2" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT2.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 2
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33442
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE - SKY SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT2HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33444
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE - SKY BUNDESLIGA 1 HD" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33441
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE - SKY BUNDESLIGA 2 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33440
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE - SKY BUNDESLIGA 3 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33439
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE - SKY BUNDESLIGA 4 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33438
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE - SKY BUNDESLIGA 5 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33437
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE - SKY BUNDESLIGA 6 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33436
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE - SKY BUNDESLIGA 7 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33435
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE - SKY BUNDESLIGA 8 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33434
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE - SKY BUNDESLIGA 9 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33433
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE - SKY BUNDESLIGA 10 HD (ON MATCH TIME)" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33432
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE - EUROSPORT 1 HD" tvg-logo="http://212.8.253.112/logo/SPAIN/EUROSPORT1.png" group-title="EU | GERMANY & AUSTRIA",DE - EUROSPORT 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33451
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE - EUROSPORT 2  XTRA HD" tvg-logo="http://212.8.253.112/logo/GERMANY/EUROSPORT2HDXTRA.png" group-title="EU | GERMANY & AUSTRIA",DE - EUROSPORT 2  XTRA HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33449
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE - EUROSPORT 2 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/EUROSPORT2HD.png" group-title="EU | GERMANY & AUSTRIA",DE - EUROSPORT 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33450
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE - MOTORVISION" tvg-logo="http://212.8.253.112/logo/GERMANY/MOTORVISION.png" group-title="EU | GERMANY & AUSTRIA",DE - MOTORVISION
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33448
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE - SPORT 1  HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SPORT1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SPORT 1  HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33452
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - MUSIK #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - MUSIK #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70102
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE - JUKEBOX" tvg-logo="http://212.8.253.112/logo/GERMANY/JUKEBOX.png" group-title="EU | GERMANY & AUSTRIA",DE - JUKEBOX
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33500
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE - CLASSICA" tvg-logo="http://212.8.253.112/logo/GERMANY/CLASSICA.png" group-title="EU | GERMANY & AUSTRIA",DE - CLASSICA
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33455
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE - MTV HD" tvg-logo="http://212.8.253.112/logo/GERMANY/MTV.png" group-title="EU | GERMANY & AUSTRIA",DE - MTV HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33505
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DE - DELUXE MUSIC HD" tvg-logo="http://212.8.253.112/logo/GERMANY/DELUXEMUSICHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DELUXE MUSIC HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33503
+#EXTINF:-1 tvg-id="" tvg-name="DE - VH1" tvg-logo="http://212.8.253.112/logo/GERMANY/VH1.png" group-title="EU | GERMANY & AUSTRIA",DE - VH1
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33501
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - DOKUMENTARFILME #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - DOKUMENTARFILME #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33499
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE - DISCOVERY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/DISCOVERYCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISCOVERY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33498
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE - E! ENTERTAINMENT HD" tvg-logo="http://212.8.253.112/logo/GERMANY/E%21.png" group-title="EU | GERMANY & AUSTRIA",DE - E! ENTERTAINMENT HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33506
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE - HISTORY CHANNEL" tvg-logo="http://212.8.253.112/logo/GERMANY/HISTORYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - HISTORY CHANNEL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33490
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE - HISTORY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/HISTORYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - HISTORY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33495
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE - NGC" tvg-logo="http://212.8.253.112/logo/GERMANY/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - NGC
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33492
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE - NGC HD" tvg-logo="http://212.8.253.112/logo/GERMANY/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - NGC HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33497
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE - NGC WILD HD" tvg-logo="http://212.8.253.112/logo/GERMANY/NATGEOWILDHD.png" group-title="EU | GERMANY & AUSTRIA",DE - NGC WILD HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33496
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE - NGC WILD" tvg-logo="http://212.8.253.112/logo/GERMANY/NATGEOWILDHD.png" group-title="EU | GERMANY & AUSTRIA",DE - NGC WILD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33491
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE - TLC HD" tvg-logo="http://212.8.253.112/logo/GERMANY/TLCHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TLC HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33494
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE - RTL LIVING" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL LIVING
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70103
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE - SPIEGEL GESCHICHTE" tvg-logo="http://212.8.253.112/logo/GERMANY/SPIEGELGESCHICHTE.png" group-title="EU | GERMANY & AUSTRIA",DE - SPIEGEL GESCHICHTE
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33489
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - ANDERE #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - ANDERE #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33476
+#EXTINF:-1 tvg-id="" tvg-name="DE - 123TV HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/TV12HD.png" group-title="EU | GERMANY & AUSTRIA",DE - 123TV HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33473
+#EXTINF:-1 tvg-id="" tvg-name="DE - HSE 24 EXTRA HD" tvg-logo="http://212.8.253.112/logo/GERMANY/HSE24EXTRAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - HSE 24 EXTRA HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33468
+#EXTINF:-1 tvg-id="hse24.de" tvg-name="DE - HSE 24 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/HSE24HD.png" group-title="EU | GERMANY & AUSTRIA",DE - HSE 24 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33469
+#EXTINF:-1 tvg-id="" tvg-name="DE - JUWELO HD" tvg-logo="http://212.8.253.112/logo/GERMANY/JUKEBOX.png" group-title="EU | GERMANY & AUSTRIA",DE - JUWELO HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33475
+#EXTINF:-1 tvg-id="" tvg-name="DE - MDR S-ANHALT HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/SJUANHD.png" group-title="EU | GERMANY & AUSTRIA",DE - MDR S-ANHALT HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33466
+#EXTINF:-1 tvg-id="" tvg-name="DE - MDR CRINGEN HD" tvg-logo="http://212.8.253.112/logo/UK/GENERAL.png" group-title="EU | GERMANY & AUSTRIA",DE - MDR CRINGEN HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33467
+#EXTINF:-1 tvg-id="" tvg-name="DE - MDR SACHSEN HD" tvg-logo="http://212.8.253.112/logo/CANADA/CHCH.png" group-title="EU | GERMANY & AUSTRIA",DE - MDR SACHSEN HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33465
+#EXTINF:-1 tvg-id="" tvg-name="DE - NDR FS HH HD" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE - NDR FS HH HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70104
+#EXTINF:-1 tvg-id="" tvg-name="DE - NDR FS MV HD" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE - NDR FS MV HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70105
+#EXTINF:-1 tvg-id="" tvg-name="DE - NDR FS NDS HD" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE - NDR FS NDS HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70106
+#EXTINF:-1 tvg-id="" tvg-name="DE - NDR FS SH HD" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE - NDR FS SH HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70107
+#EXTINF:-1 tvg-id="" tvg-name="DE - NITRO" tvg-logo="http://212.8.253.112/logo/GERMANY/NITRO.png" group-title="EU | GERMANY & AUSTRIA",DE - NITRO
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33556
+#EXTINF:-1 tvg-id="" tvg-name="DE - PEARL TV HD" tvg-logo="http://212.8.253.112/logo/GERMANY/PEARLTV.png" group-title="EU | GERMANY & AUSTRIA",DE - PEARL TV HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33474
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE - QVC HD" tvg-logo="http://212.8.253.112/logo/UK/QVCU.K..png" group-title="EU | GERMANY & AUSTRIA",DE - QVC HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33471
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE - QVC2 HD" tvg-logo="http://212.8.253.112/logo/UK/QVCU.K..png" group-title="EU | GERMANY & AUSTRIA",DE - QVC2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33470
+#EXTINF:-1 tvg-id="" tvg-name="DE - RBB BERLIN HD" tvg-logo="http://212.8.253.112/logo/GERMANY/KABEL1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - RBB BERLIN HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33461
+#EXTINF:-1 tvg-id="" tvg-name="DE - RBB BRANDEN BURG" tvg-logo="http://212.8.253.112/logo/NEDERLAND/L1LIMBURGTV.png" group-title="EU | GERMANY & AUSTRIA",DE - RBB BRANDEN BURG
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33460
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE - SONNENKLAR HD" tvg-logo="http://212.8.253.112/logo/UK/SONYCRIMECHANNEL2.png" group-title="EU | GERMANY & AUSTRIA",DE - SONNENKLAR HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33459
+#EXTINF:-1 tvg-id="" tvg-name="DE - SWR FERNSEHEN BW" tvg-logo="http://212.8.253.112/logo/GERMANY/SWRFERNSEHENBW.png" group-title="EU | GERMANY & AUSTRIA",DE - SWR FERNSEHEN BW
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33557
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR AACHEN HD" tvg-logo="http://212.8.253.112/logo/NEDERLAND/24KITCHEN.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR AACHEN HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33464
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR BONN HD" tvg-logo="http://212.8.253.112/logo/GERMANY/BOOMERANG.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR BONN HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33463
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR DUISBURG HD" tvg-logo="http://212.8.253.112/logo/LATINO/BOOMRANG.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR DUISBURG HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33462
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR WUPPERTAL HD" tvg-logo="http://212.8.253.112/logo/LATINO/BAND.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR WUPPERTAL HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33458
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - JUGEND #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - JUGEND #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33487
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE - BOOMERANG" tvg-logo="http://212.8.253.112/logo/GERMANY/BOOMERANG.png" group-title="EU | GERMANY & AUSTRIA",DE - BOOMERANG
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33480
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE - SUPER RTL" tvg-logo="http://212.8.253.112/logo/GERMANY/SUPERRTL.png" group-title="EU | GERMANY & AUSTRIA",DE - SUPER RTL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33561
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/GERMANY/CARTOONNETWORK.png" group-title="EU | GERMANY & AUSTRIA",DE - CARTOON NETWORK
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33481
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE - DISNEY CHANNEL HD" tvg-logo="http://212.8.253.112/logo/GERMANY/DISNEYCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISNEY CHANNEL HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33486
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE - KIKA" tvg-logo="http://212.8.253.112/logo/GERMANY/KIKAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - KIKA
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33482
+#EXTINF:-1 tvg-id="disneycinemagic.de" tvg-name="DE - DISNEY CINEMAGIC" tvg-logo="http://212.8.253.112/logo/GERMANY/DISNEYCINEMAGICHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISNEY CINEMAGIC
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33484
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="DE - DISNEY JUNIOR HD" tvg-logo="http://212.8.253.112/logo/GERMANY/DISNEYJUNIORHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISNEY JUNIOR HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33485
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE - VIVA/COMEDY CENTRAL" tvg-logo="http://212.8.253.112/logo/NEDERLAND/COMEDYCENTRAL.png" group-title="EU | GERMANY & AUSTRIA",DE - VIVA/COMEDY CENTRAL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33502
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE - NICK /MTV" tvg-logo="http://212.8.253.112/logo/GERMANY/MTV.png" group-title="EU | GERMANY & AUSTRIA",DE - NICK /MTV
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33483
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - NACHRICHTEN #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - NACHRICHTEN #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33479
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE - N TV" tvg-logo="http://212.8.253.112/logo/GERMANY/N-TV.png" group-title="EU | GERMANY & AUSTRIA",DE - N TV
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33477
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE - EURONEWS" tvg-logo="http://212.8.253.112/logo/GERMANY/EURONEWS.png" group-title="EU | GERMANY & AUSTRIA",DE - EURONEWS
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33478
+#EXTINF:-1 tvg-id="n24.de" tvg-name="DE - N24" tvg-logo="http://212.8.253.112/logo/GERMANY/N24.png" group-title="EU | GERMANY & AUSTRIA",DE - N24
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/41644
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE - WELT HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/POWERHDPLUS.png" group-title="EU | GERMANY & AUSTRIA",DE - WELT HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33457
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - UNTERHALTUNG #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - UNTERHALTUNG #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33516
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE - SYFY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SYFYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SYFY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33513
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="DE - TNT SERIE HD" tvg-logo="http://212.8.253.112/logo/GERMANY/TNTSERIEHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TNT SERIE HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33512
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE - 13TH STREET" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/13THSTREET.png" group-title="EU | GERMANY & AUSTRIA",DE - 13TH STREET
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33507
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE - 13TH STREET HD" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/13THSTREET.png" group-title="EU | GERMANY & AUSTRIA",DE - 13TH STREET HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33514
+#EXTINF:-1 tvg-id="fox.de" tvg-name="DE - FOX HD" tvg-logo="http://212.8.253.112/logo/GERMANY/FOXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - FOX HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33515
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE - HEIMAT KANAL" tvg-logo="http://212.8.253.112/logo/GERMANY/HEIMATKANAL.png" group-title="EU | GERMANY & AUSTRIA",DE - HEIMAT KANAL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33456
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE - KINOWELT TV" tvg-logo="http://212.8.253.112/logo/GERMANY/KINOWELT.TV.png" group-title="EU | GERMANY & AUSTRIA",DE - KINOWELT TV
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33518
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE - RTL CRIME HD" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLCRIMEHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL CRIME HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33564
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE - RTL PASSION HD" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLPASSIONHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL PASSION HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33563
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE - ROMANCE TV" tvg-logo="http://212.8.253.112/logo/GERMANY/ROMANCETV.png" group-title="EU | GERMANY & AUSTRIA",DE - ROMANCE TV
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33510
+#EXTINF:-1 tvg-id="zeeone.de" tvg-name="DE - ZEE ONE" tvg-logo="http://212.8.253.112/logo/GERMANY/ZEEONE.png" group-title="EU | GERMANY & AUSTRIA",DE - ZEE ONE
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33558
+#EXTINF:-1 tvg-id="zeeone.de" tvg-name="DE - ZEE ONE HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ZEEONE.png" group-title="EU | GERMANY & AUSTRIA",DE - ZEE ONE HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33543
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - KINO #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - KINO #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33542
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE - SKY 1 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKY1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33541
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE - SKY ATLANTIC HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYATLANTICHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY ATLANTIC HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33531
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE - SKY ATLANTIC" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYATLANTIC.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY ATLANTIC
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33519
+#EXTINF:-1 tvg-id="skycinemaplus1.de" tvg-name="DE - SKY CINEMA  1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA  1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33539
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="DE - SKY CINEMA  24 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMA%2B24HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA  24 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33538
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE - SKY CINEMA ACTION HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAACTIONHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA ACTION HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33536
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA COMEDY" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMACOMEDY.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA COMEDY
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70108
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA EMOTION" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAEMOTION.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA EMOTION
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33535
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA FAMILY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAFAMILYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA FAMILY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33537
+#EXTINF:-1 tvg-id="skycinema.de" tvg-name="DE - SKY CINEMA HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33540
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA HITS HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHITSHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA HITS HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33533
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA NOSTALGIE" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMANOSTALGIE.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA NOSTALGIE
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33534
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE - SKY KRIMI" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYKRIMI.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY KRIMI
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33508
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="DE - TNT COMEDY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/TNTCOMEDYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TNT COMEDY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33532
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="DE - TNT FILM" tvg-logo="http://212.8.253.112/logo/GERMANY/TNTFILMHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TNT FILM
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33517
+#EXTINF:-1 tvg-id="" tvg-name="##### DE - SKY SELECT #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",##### DE - SKY SELECT #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33525
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="DE - SKY SELECT 1 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT2.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33524
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="DE - SKY SELECT 2 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT2.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33523
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="DE - SKY SELECT 3 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT3.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 3 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33522
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="DE - SKY SELECT 4 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT4.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 4 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33521
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="DE - SKY SELECT 5 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT5.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 5 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/33520
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="DE - SKY SELECT 6 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT1.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 6 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70109
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="DE - SKY SELECT 7 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT1.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 7 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70110
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="DE - SKY SELECT 8 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT1.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 8 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70111
+#EXTINF:-1 tvg-id="skyselect9.de" tvg-name="DE - SKY SELECT 9 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT1.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SELECT 9 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70112
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA 1 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70113
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA 24 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA 24 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70114
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA ACTION HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA ACTION HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70115
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA COMEDY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA COMEDY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70116
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA DRAMA  HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA DRAMA  HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70117
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA FAMILY HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA FAMILY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70118
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70119
+#EXTINF:-1 tvg-id="" tvg-name="DE - ELIT CINEMA HITS HD" tvg-logo="http://212.8.253.112/logo/GERMANY/ELIT.png" group-title="EU | GERMANY & AUSTRIA",DE - ELIT CINEMA HITS HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70120
+#EXTINF:-1 tvg-id="" tvg-name="###### DE - HEVC #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",###### DE - HEVC #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60269
+#EXTINF:-1 tvg-id="" tvg-name="DE - 1-2-3.TV HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/1-2-3TV.png" group-title="EU | GERMANY & AUSTRIA",DE - 1-2-3.TV HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60255
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE- 13TH STREET HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/13THSTREET.png" group-title="EU | GERMANY & AUSTRIA",DE- 13TH STREET HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60254
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE - 3SAT [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/3SATHD.png" group-title="EU | GERMANY & AUSTRIA",DE - 3SAT [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60253
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE - ANIXE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/ANIXEHD.png" group-title="EU | GERMANY & AUSTRIA",DE - ANIXE HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60252
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE- ARTE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/ARTEHD.png" group-title="EU | GERMANY & AUSTRIA",DE- ARTE HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60251
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE - BOOMERANG [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/BOOMERANG.png" group-title="EU | GERMANY & AUSTRIA",DE - BOOMERANG [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60250
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE - CARTOON NETWORK [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/CARTOONNETWORK.png" group-title="EU | GERMANY & AUSTRIA",DE - CARTOON NETWORK [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60249
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE - CLASSICA [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/CLASSICA.png" group-title="EU | GERMANY & AUSTRIA",DE - CLASSICA [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60248
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE- COMEDY CENTRAL HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/comedy.png" group-title="EU | GERMANY & AUSTRIA",DE- COMEDY CENTRAL HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60247
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="DE - CRIME   INVESTIGATION [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/CRIME%26INVESTIGATION.png" group-title="EU | GERMANY & AUSTRIA",DE - CRIME   INVESTIGATION [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60246
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE - DAS ERSTE [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DASERSTEHD%28ARD%29.png" group-title="EU | GERMANY & AUSTRIA",DE - DAS ERSTE [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60245
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE - DAS ERSTE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DASERSTEHD%28ARD%29.png" group-title="EU | GERMANY & AUSTRIA",DE - DAS ERSTE HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60244
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE - DISCOVERY HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DISCOVERYCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISCOVERY HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60240
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE - DISNEY CHANNEL HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DISNEYCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISNEY CHANNEL HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60239
+#EXTINF:-1 tvg-id="disneycinemagic.de" tvg-name="DE - DISNEY CINEMAGIC HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DISNEYCINEMAGICHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISNEY CINEMAGIC HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60238
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="DE - DISNEY JUNIOR HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DISNEYJUNIORHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DISNEY JUNIOR HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60237
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE - DMAX HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DMAXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - DMAX HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60236
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE - E! ENTERTAINM. HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/E%21.png" group-title="EU | GERMANY & AUSTRIA",DE - E! ENTERTAINM. HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60235
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE - EURONEWS FRENCH [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/EURONEWS.png" group-title="EU | GERMANY & AUSTRIA",DE - EURONEWS FRENCH [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60175
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE  - EURONEWS GERMAN [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/EURONEWS.png" group-title="EU | GERMANY & AUSTRIA",DE  - EURONEWS GERMAN [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60174
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE  - EUROSPORT 1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/EUROSPORT1HD.png" group-title="EU | GERMANY & AUSTRIA",DE  - EUROSPORT 1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60173
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE - EUROSPORT 2 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/EUROSPORT2HD.png" group-title="EU | GERMANY & AUSTRIA",DE - EUROSPORT 2 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60172
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE  - EUROSPORT 2 HD XTRA [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/EUROSPORT2HD.png" group-title="EU | GERMANY & AUSTRIA",DE  - EUROSPORT 2 HD XTRA [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60171
+#EXTINF:-1 tvg-id="fox.de" tvg-name="DE - FOX HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/FOXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - FOX HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60234
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE - HEIMATKANAL [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/HEIMATKANAL.png" group-title="EU | GERMANY & AUSTRIA",DE - HEIMATKANAL [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60233
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE - HISTORY HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/HISTORYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - HISTORY HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60232
+#EXTINF:-1 tvg-id="hse24.de" tvg-name="DE - HSE24 EXTRA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/HSE24EXTRAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - HSE24 EXTRA HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60231
+#EXTINF:-1 tvg-id="hse24.de" tvg-name="DE - HSE24 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/HSE24HD.png" group-title="EU | GERMANY & AUSTRIA",DE - HSE24 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60230
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE - JUKEBOX [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/JUKEBOX.png" group-title="EU | GERMANY & AUSTRIA",DE - JUKEBOX [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60229
+#EXTINF:-1 tvg-id="" tvg-name="DE - JUWELO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/JUWELOHD.png" group-title="EU | GERMANY & AUSTRIA",DE - JUWELO HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60228
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE - KABEL EINS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/KABELEINS.png" group-title="EU | GERMANY & AUSTRIA",DE - KABEL EINS HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60227
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE - KIKA [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/KIKAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - KIKA [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60226
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE - KINOWELT TV [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/KINOWELT.TV.png" group-title="EU | GERMANY & AUSTRIA",DE - KINOWELT TV [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60225
+#EXTINF:-1 tvg-id="" tvg-name="DE - LUXE MUSIC HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DELUXEMUSICHD.png" group-title="EU | GERMANY & AUSTRIA",DE - LUXE MUSIC HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60241
+#EXTINF:-1 tvg-id="" tvg-name="DE|  - MDR S-ANHALT HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/MDRS-ANHALTHD.png" group-title="EU | GERMANY & AUSTRIA",DE|  - MDR S-ANHALT HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60170
+#EXTINF:-1 tvg-id="" tvg-name="DE - MDR SACHSEN HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/MDRSACHCENANHALT.png" group-title="EU | GERMANY & AUSTRIA",DE - MDR SACHSEN HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60169
+#EXTINF:-1 tvg-id="" tvg-name="DE| - MDR THÃœRINGEN HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/MDRCRINGENHD.png" group-title="EU | GERMANY & AUSTRIA",DE| - MDR THÃœRINGEN HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60168
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE  - MOTORVISION TV [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/MOTORVISION.png" group-title="EU | GERMANY & AUSTRIA",DE  - MOTORVISION TV [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60167
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE - MTV HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/MTV.png" group-title="EU | GERMANY & AUSTRIA",DE - MTV HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60166
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE - N-TV [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/N-TV.png" group-title="EU | GERMANY & AUSTRIA",DE - N-TV [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60219
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE - NAT GEO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | GERMANY & AUSTRIA",DE - NAT GEO HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60217
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE - NAT GEO WILD HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NATGEOWILDHD.png" group-title="EU | GERMANY & AUSTRIA",DE - NAT GEO WILD HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60218
+#EXTINF:-1 tvg-id="" tvg-name="DE  - NDR FS HH HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE  - NDR FS HH HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60152
+#EXTINF:-1 tvg-id="" tvg-name="DE  - NDR FS MV HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE  - NDR FS MV HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60151
+#EXTINF:-1 tvg-id="" tvg-name="DE  - NDR FS NDS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE  - NDR FS NDS HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60150
+#EXTINF:-1 tvg-id="" tvg-name="DE - NDR FS SH HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NDR.png" group-title="EU | GERMANY & AUSTRIA",DE - NDR FS SH HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60149
+#EXTINF:-1 tvg-id="" tvg-name="DE - NITRO [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/NITRO.png" group-title="EU | GERMANY & AUSTRIA",DE - NITRO [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60216
+#EXTINF:-1 tvg-id="" tvg-name="DE - PEARL.TV HD SHOP [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/PEARLTV.png" group-title="EU | GERMANY & AUSTRIA",DE - PEARL.TV HD SHOP [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60215
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE - PHOENIX HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/PHOENIX.png" group-title="EU | GERMANY & AUSTRIA",DE - PHOENIX HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60154
+#EXTINF:-1 tvg-id="" tvg-name="DE - PRO7 MAXX HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/PROSIEBENMAXXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - PRO7 MAXX HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60214
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE - PROSIEBEN HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/PROSIEBEN.png" group-title="EU | GERMANY & AUSTRIA",DE - PROSIEBEN HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60213
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE - QVC HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/QVCHD.png" group-title="EU | GERMANY & AUSTRIA",DE - QVC HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60212
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE  - QVC2 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/QVC2.png" group-title="EU | GERMANY & AUSTRIA",DE  - QVC2 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60211
+#EXTINF:-1 tvg-id="" tvg-name="DE - RBB BERLIN HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/RBBBERLIN.png" group-title="EU | GERMANY & AUSTRIA",DE - RBB BERLIN HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60210
+#EXTINF:-1 tvg-id="" tvg-name="DE - RBB BRAN [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/RBBBRANDENBURG.png" group-title="EU | GERMANY & AUSTRIA",DE - RBB BRAN [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60146
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE - ROMANCE TV [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/ROMANCETV.png" group-title="EU | GERMANY & AUSTRIA",DE - ROMANCE TV [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60145
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE - RTL HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60144
+#EXTINF:-1 tvg-id="" tvg-name="DE - RTL TELEVISION [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL TELEVISION [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60143
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE - RTL2 [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTL2 [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60142
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE - RTLII HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/RTLHD.png" group-title="EU | GERMANY & AUSTRIA",DE - RTLII HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60141
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE - RTLPLUS [HEVC]" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",DE - RTLPLUS [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60140
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE  - SAT.1 GOLD HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SAT1GOLDHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SAT.1 GOLD HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60209
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE- SAT.1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SAT1HD.png" group-title="EU | GERMANY & AUSTRIA",DE- SAT.1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60208
+#EXTINF:-1 tvg-id="" tvg-name="DE  - SERVUSTV HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/FOXSERIE.png" group-title="EU | GERMANY & AUSTRIA",DE  - SERVUSTV HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60153
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE - SIXX HD |HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SIXXHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SIXX HD |HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60207
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE - SKY ATLANTIC HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYATLANTIC.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY ATLANTIC HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60206
+#EXTINF:-1 tvg-id="skycinema.de" tvg-name="DE - SKY CINEMA [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYCINEMA%2B1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60147
+#EXTINF:-1 tvg-id="skycinemaplus1.de" tvg-name="DE - SKY CINEMA 1 [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMA%2B1HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA 1 [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60224
+#EXTINF:-1 tvg-id="skycinemaplus1.de" tvg-name="DE  - SKY CINEMA  1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYATLANTIC.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY CINEMA  1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60205
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="DE - SKY CINEMA  24 [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMA%2B24HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA  24 [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60223
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="DE - SKY CINEMA  24 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMA%2B24HD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA  24 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60204
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE  - SKY CINEMA ACTION [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAACTIONHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY CINEMA ACTION [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60222
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE - SKY CINEMA ACTION HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAACTIONHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA ACTION HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60203
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA COMEDY [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMACOMEDY.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA COMEDY [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60202
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA EMOTION [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA EMOTION [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60201
+#EXTINF:-1 tvg-id="skycinema.de" tvg-name="DE - SKY CINEMA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60200
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA HITS [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHITSHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA HITS [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60221
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA HITS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA HITS HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60139
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA NOSTALGIE [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA NOSTALGIE [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60138
+#EXTINF:-1 tvg-id="" tvg-name="DE  - SKY CINEMA TIERISCH [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY CINEMA TIERISCH [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60220
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY CINEMA TIERISCH HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYCINEMAHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY CINEMA TIERISCH HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60137
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE - SKY KRIMI [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYKRIMI.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY KRIMI [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60199
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="DE  - SKY SELECT [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT2.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY SELECT [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60148
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE - SKY SPORT 1 [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT1.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 1 [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60198
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE  - SKY SPORT 1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT1.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY SPORT 1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60196
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE - SKY SPORT 2 [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT2.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 2 [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60197
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE - SKY SPORT 2 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSPORT2.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT 2 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60195
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE - SKY SPORT BUNDESLIGA 1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA1FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT BUNDESLIGA 1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60194
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE  - SKY SPORT BUNDESLIGA 10 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY SPORT BUNDESLIGA 10 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60185
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE - SKY SPORT BUNDESLIGA 2 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA2FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT BUNDESLIGA 2 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60193
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE  - SKY SPORT BUNDESLIGA 3 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA3FHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY SPORT BUNDESLIGA 3 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60192
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE - SKY SPORT BUNDESLIGA 4 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA4FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT BUNDESLIGA 4 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60191
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE  - SKY SPORT BUNDESLIGA 5 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA5FHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY SPORT BUNDESLIGA 5 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60190
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE - SKY SPORT BUNDESLIGA 6 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT BUNDESLIGA 6 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60189
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE - SKY SPORT BUNDESLIGA 7 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT BUNDESLIGA 7 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60188
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE  - SKY SPORT BUNDESLIGA 8 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SKY SPORT BUNDESLIGA 8 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60187
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE - SKY SPORT BUNDESLIGA 9 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYBUNDESLIGA6FHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT BUNDESLIGA 9 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60186
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE - SKY SPORT NEWS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SKYSPORTNEWSHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SKY SPORT NEWS HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60184
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE - SONNENKLAR.TV HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SONNENKLARHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SONNENKLAR.TV HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60183
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE  - SPIEGEL GESCHICHTE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SPIEGELGESCHICHTE.png" group-title="EU | GERMANY & AUSTRIA",DE  - SPIEGEL GESCHICHTE HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60182
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE - SPORT1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SPORT1%2BHD.png" group-title="EU | GERMANY & AUSTRIA",DE - SPORT1 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60181
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE - SUPER RTL [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SUPERRTL.png" group-title="EU | GERMANY & AUSTRIA",DE - SUPER RTL [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60180
+#EXTINF:-1 tvg-id="" tvg-name="DE - SWR FERNSEHEN BW [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SWRFERNSEHENBW.png" group-title="EU | GERMANY & AUSTRIA",DE - SWR FERNSEHEN BW [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60179
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE  - SYFY HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/SYFYHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - SYFY HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60178
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE - TELE 5 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/TELE5HD.png" group-title="EU | GERMANY & AUSTRIA",DE - TELE 5 HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60177
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE  - TLC HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/TLCHD.png" group-title="EU | GERMANY & AUSTRIA",DE  - TLC HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60176
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="DE - TNT COMEDY HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/TNTCOMEDYHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TNT COMEDY HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60136
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="DE - TNT FILM HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/TNTFILMHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TNT FILM HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60135
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="DE - TNT SERIE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY_OLD/TNTSERIEHD.png" group-title="EU | GERMANY & AUSTRIA",DE - TNT SERIE HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60134
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE - VOX [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/VOX.png" group-title="EU | GERMANY & AUSTRIA",DE - VOX [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60165
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE - VOX HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/VOX.png" group-title="EU | GERMANY & AUSTRIA",DE - VOX HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60164
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR HD AACHEN [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/WDRAACHEN.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR HD AACHEN [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60163
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR HD BONN [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/WDRBONN.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR HD BONN [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60162
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR HD DUISBURG  [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/WDRDUISBURG.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR HD DUISBURG  [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60161
+#EXTINF:-1 tvg-id="" tvg-name="DE - WDR HD WUPPERTAL [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/WDRWUPPERTALHD.png" group-title="EU | GERMANY & AUSTRIA",DE - WDR HD WUPPERTAL [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60160
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE - WELT HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/WELTHD.png" group-title="EU | GERMANY & AUSTRIA",DE - WELT HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60159
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE - ZDF [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/ZDF.png" group-title="EU | GERMANY & AUSTRIA",DE - ZDF [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60158
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE - ZDF_NEO [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/ZDFNEO.png" group-title="EU | GERMANY & AUSTRIA",DE - ZDF_NEO [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60157
+#EXTINF:-1 tvg-id="zeeone.de" tvg-name="DE - ZEE ONE [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/ZEEONE.png" group-title="EU | GERMANY & AUSTRIA",DE - ZEE ONE [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60156
+#EXTINF:-1 tvg-id="zeeone.de" tvg-name="DE  - ZEE ONE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/ZEEONE.png" group-title="EU | GERMANY & AUSTRIA",DE  - ZEE ONE HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60155
+#EXTINF:-1 tvg-id="" tvg-name="DE - DAZN 2 BAR HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DAZN2BAR.png" group-title="EU | GERMANY & AUSTRIA",DE - DAZN 2 BAR HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60242
+#EXTINF:-1 tvg-id="" tvg-name="DE - DAZN 1 BAR HD [HEVC]" tvg-logo="http://212.8.253.112/logo/GERMANY/DAZN1BAR.png" group-title="EU | GERMANY & AUSTRIA",DE - DAZN 1 BAR HD [HEVC]
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60243
+#EXTINF:-1 tvg-id="" tvg-name="###### AT - AUSTRIA  #####" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",###### AT - AUSTRIA  #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60385
+#EXTINF:-1 tvg-id="atv.at" tvg-name="AT - ATV HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ATV HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60384
+#EXTINF:-1 tvg-id="atv2.at" tvg-name="AT - ATV2" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ATV2
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60383
+#EXTINF:-1 tvg-id="orf3.at" tvg-name="AT - ORF III HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ORF III HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60382
+#EXTINF:-1 tvg-id="orfsport.at" tvg-name="AT - ORF SPORT" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ORF SPORT
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60381
+#EXTINF:-1 tvg-id="orfsport.at" tvg-name="AT - ORF SPORT  HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ORF SPORT  HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60380
+#EXTINF:-1 tvg-id="orf1.at" tvg-name="AT - ORF1 HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ORF1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60379
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="AT - ORF2N HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ORF2N HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60378
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="AT - ORF2W HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ORF2W HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60377
+#EXTINF:-1 tvg-id="" tvg-name="AT - PULS 4 HD Austria" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - PULS 4 HD Austria
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60376
+#EXTINF:-1 tvg-id="" tvg-name="AT - ServusTV HD Oesterreich" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - ServusTV HD Oesterreich
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60375
+#EXTINF:-1 tvg-id="" tvg-name="AT - Sky Sport Austria HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - Sky Sport Austria HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/60374
+#EXTINF:-1 tvg-id="" tvg-name="AT - MELODIE TV HD" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - MELODIE TV HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/79215
+#EXTINF:-1 tvg-id="" tvg-name="AT - MELODIE TV HEVC" tvg-logo="" group-title="EU | GERMANY & AUSTRIA",AT - MELODIE TV HEVC
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/79216
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 BAR HD" tvg-logo="http://212.8.253.112/logo/GERMANY/DAZN1BAR.png" group-title="EU | GERMANY & AUSTRIA",DAZN 1 BAR HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45656
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 BAR HD" tvg-logo="http://212.8.253.112/logo/GERMANY/DAZN2BAR.png" group-title="EU | GERMANY & AUSTRIA",DAZN 2 BAR HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45657
 #EXTINF:-1 tvg-id="" tvg-name="##### HU - HUNGARIAN #####" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/HANGARIA.png" group-title="EU | HUNGARIA",##### HU - HUNGARIAN #####
 http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70203
 #EXTINF:-1 tvg-id="" tvg-name="##### HU - GENERAL #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - GENERAL #####
@@ -142,3 +725,148 @@ http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45176
 http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45175
 #EXTINF:-1 tvg-id="" tvg-name="HU - SUPER TV" tvg-logo="" group-title="EU | HUNGARIA",HU - SUPER TV
 http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/76176
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - HUNGARIAN #####" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/HANGARIA.png" group-title="EU | HUNGARIA",##### HU - HUNGARIAN #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/70203
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - GENERAL #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - GENERAL #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45247
+#EXTINF:-1 tvg-id="" tvg-name="HU - M PLUS" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/MPLUS.png" group-title="EU | HUNGARIA",HU - M PLUS
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45246
+#EXTINF:-1 tvg-id="" tvg-name="HU - M4 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/M4HD.png" group-title="EU | HUNGARIA",HU - M4 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45245
+#EXTINF:-1 tvg-id="" tvg-name="HU - MEGAMAX" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/MEGAMAX.png" group-title="EU | HUNGARIA",HU - MEGAMAX
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45244
+#EXTINF:-1 tvg-id="" tvg-name="HU - RTL 2 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/RTL2HD.png" group-title="EU | HUNGARIA",HU - RTL 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45243
+#EXTINF:-1 tvg-id="" tvg-name="HU - RTL KLUB HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/RTLKLUBHD.png" group-title="EU | HUNGARIA",HU - RTL KLUB HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45242
+#EXTINF:-1 tvg-id="" tvg-name="HU - RTL PLUS" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/RTLPLUS.png" group-title="EU | HUNGARIA",HU - RTL PLUS
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45241
+#EXTINF:-1 tvg-id="" tvg-name="HU - SPEKTRUM HOME" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/SPEKTRUMHOME.png" group-title="EU | HUNGARIA",HU - SPEKTRUM HOME
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45240
+#EXTINF:-1 tvg-id="" tvg-name="HU - STORY 4" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/STORY4.png" group-title="EU | HUNGARIA",HU - STORY 4
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45239
+#EXTINF:-1 tvg-id="" tvg-name="HU - STORY 5" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/STORY5.png" group-title="EU | HUNGARIA",HU - STORY 5
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45238
+#EXTINF:-1 tvg-id="" tvg-name="HU - TLC" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/TLC.png" group-title="EU | HUNGARIA",HU - TLC
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45236
+#EXTINF:-1 tvg-id="" tvg-name="HU - TV 1000" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/TV1000.png" group-title="EU | HUNGARIA",HU - TV 1000
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45235
+#EXTINF:-1 tvg-id="" tvg-name="HU - TV2 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/TV2HD.png" group-title="EU | HUNGARIA",HU - TV2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45234
+#EXTINF:-1 tvg-id="" tvg-name="HU - VIASAT 3" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/VIASAT3.png" group-title="EU | HUNGARIA",HU - VIASAT 3
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45233
+#EXTINF:-1 tvg-id="" tvg-name="HU - VIASAT 6" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/VIASAT6.png" group-title="EU | HUNGARIA",HU - VIASAT 6
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45232
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - ENTERTAINMENT #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - ENTERTAINMENT #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45231
+#EXTINF:-1 tvg-id="" tvg-name="HU - CBS REALITY" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/CBSREALITY.png" group-title="EU | HUNGARIA",HU - CBS REALITY
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45230
+#EXTINF:-1 tvg-id="" tvg-name="HU - COMEDY CENTRAL" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/COMEDYCENTRAL.png" group-title="EU | HUNGARIA",HU - COMEDY CENTRAL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45229
+#EXTINF:-1 tvg-id="" tvg-name="HU - DA VINCI LEARNING" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DAVINCILEARNING.png" group-title="EU | HUNGARIA",HU - DA VINCI LEARNING
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45228
+#EXTINF:-1 tvg-id="" tvg-name="HU - DOQ" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DOQ.png" group-title="EU | HUNGARIA",HU - DOQ
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45227
+#EXTINF:-1 tvg-id="" tvg-name="HU - FEM 3" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/FEM3.png" group-title="EU | HUNGARIA",HU - FEM 3
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45226
+#EXTINF:-1 tvg-id="" tvg-name="HU - FINE LIVING" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/FINELIVING.png" group-title="EU | HUNGARIA",HU - FINE LIVING
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45225
+#EXTINF:-1 tvg-id="" tvg-name="HU - FISHING AND HUNTING" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/FISHINGANDHUNTING.png" group-title="EU | HUNGARIA",HU - FISHING AND HUNTING
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45224
+#EXTINF:-1 tvg-id="" tvg-name="HU - FOOD NETWORK" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/FOODNETWORK.png" group-title="EU | HUNGARIA",HU - FOOD NETWORK
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45223
+#EXTINF:-1 tvg-id="" tvg-name="HU - TRAVEL CHANNEL HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/TRAVELCHANNELHD.png" group-title="EU | HUNGARIA",HU - TRAVEL CHANNEL HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45222
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - MOVIES #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - MOVIES #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45221
+#EXTINF:-1 tvg-id="" tvg-name="HU - AMC" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/AMC.png" group-title="EU | HUNGARIA",HU - AMC
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45220
+#EXTINF:-1 tvg-id="" tvg-name="HU - AMC HD " tvg-logo="http://212.8.253.112/logo/HUNGARIAN/AMCHDHD.png" group-title="EU | HUNGARIA",HU - AMC HD 
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45219
+#EXTINF:-1 tvg-id="" tvg-name="HU - AXN BLACK" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/AXNBLACK.png" group-title="EU | HUNGARIA",HU - AXN BLACK
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45218
+#EXTINF:-1 tvg-id="" tvg-name="HU - AXN HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/AXNHD.png" group-title="EU | HUNGARIA",HU - AXN HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45217
+#EXTINF:-1 tvg-id="" tvg-name="HU - AXN RO" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/AXNRO.png" group-title="EU | HUNGARIA",HU - AXN RO
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45216
+#EXTINF:-1 tvg-id="" tvg-name="HU - AXN WHITE" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/AXNWHITE.png" group-title="EU | HUNGARIA",HU - AXN WHITE
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45215
+#EXTINF:-1 tvg-id="" tvg-name="HU - CINEMAX" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/CINEMAX.png" group-title="EU | HUNGARIA",HU - CINEMAX
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45214
+#EXTINF:-1 tvg-id="" tvg-name="HU - CINEMAX 2" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/CINEMAX2.png" group-title="EU | HUNGARIA",HU - CINEMAX 2
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45213
+#EXTINF:-1 tvg-id="" tvg-name="HU - DIGI FILM HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DIGIFILMHD.png" group-title="EU | HUNGARIA",HU - DIGI FILM HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45212
+#EXTINF:-1 tvg-id="" tvg-name="HU - DIGI WORLD HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DIGIWORLDHD.png" group-title="EU | HUNGARIA",HU - DIGI WORLD HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45211
+#EXTINF:-1 tvg-id="" tvg-name="HU - FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/FILMBOXPREMIUM.png" group-title="EU | HUNGARIA",HU - FILMBOX PREMIUM
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45210
+#EXTINF:-1 tvg-id="" tvg-name="HU - HBO 2 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/HBO2HD.png" group-title="EU | HUNGARIA",HU - HBO 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45209
+#EXTINF:-1 tvg-id="" tvg-name="HU - HBO 3 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/HBO3HD.png" group-title="EU | HUNGARIA",HU - HBO 3 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45208
+#EXTINF:-1 tvg-id="" tvg-name="HU - M1 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/M1HD.png" group-title="EU | HUNGARIA",HU - M1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45207
+#EXTINF:-1 tvg-id="" tvg-name="HU - M2 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/M2HD.png" group-title="EU | HUNGARIA",HU - M2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45206
+#EXTINF:-1 tvg-id="" tvg-name="HU - PARAMOUNT CHANNEL" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/PARAMOUNTCHANNEL.png" group-title="EU | HUNGARIA",HU - PARAMOUNT CHANNEL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45204
+#EXTINF:-1 tvg-id="" tvg-name="HU - COOL HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/COOL.png" group-title="EU | HUNGARIA",HU - COOL HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45203
+#EXTINF:-1 tvg-id="" tvg-name="HU - GALAXY" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/GALAXY.png" group-title="EU | HUNGARIA",HU - GALAXY
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45202
+#EXTINF:-1 tvg-id="" tvg-name="HU - SORAZAT PLUS" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/SORAZATPLUS.png" group-title="EU | HUNGARIA",HU - SORAZAT PLUS
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45201
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - KIDS #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - KIDS #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45200
+#EXTINF:-1 tvg-id="" tvg-name="HU - BOOMERANG" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/BOOMERANG.png" group-title="EU | HUNGARIA",HU - BOOMERANG
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45199
+#EXTINF:-1 tvg-id="" tvg-name="HU - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/CARTOONNETWORK.png" group-title="EU | HUNGARIA",HU - CARTOON NETWORK
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45198
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISNEY CHANNEL" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISNEYCHANNEL.png" group-title="EU | HUNGARIA",HU - DISNEY CHANNEL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45197
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISNEY JUNIOR" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISNEYJUNIOR.png" group-title="EU | HUNGARIA",HU - DISNEY JUNIOR
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45196
+#EXTINF:-1 tvg-id="" tvg-name="HU - DUCK TV" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DUCKTV.png" group-title="EU | HUNGARIA",HU - DUCK TV
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45195
+#EXTINF:-1 tvg-id="" tvg-name="HU - MINIMAX HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/MINIMAXHD.png" group-title="EU | HUNGARIA",HU - MINIMAX HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45194
+#EXTINF:-1 tvg-id="" tvg-name="HU - NICKELODEON" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/NICKELODEON.png" group-title="EU | HUNGARIA",HU - NICKELODEON
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45193
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - SPORTS #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - SPORTS #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45192
+#EXTINF:-1 tvg-id="" tvg-name="HU - DIGI SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DIGISPORT1HD.png" group-title="EU | HUNGARIA",HU - DIGI SPORT 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45191
+#EXTINF:-1 tvg-id="" tvg-name="HU - DIGI SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DIGISPORT2HD.png" group-title="EU | HUNGARIA",HU - DIGI SPORT 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45190
+#EXTINF:-1 tvg-id="" tvg-name="HU - SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/SPORT1HD.png" group-title="EU | HUNGARIA",HU - SPORT 1 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45189
+#EXTINF:-1 tvg-id="" tvg-name="HU - SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/SPORT2HD.png" group-title="EU | HUNGARIA",HU - SPORT 2 HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45188
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - MUSIC #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - MUSIC #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45187
+#EXTINF:-1 tvg-id="" tvg-name="HU - 1 Music Channel" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/1MusicChannel.png" group-title="EU | HUNGARIA",HU - 1 Music Channel
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45186
+#EXTINF:-1 tvg-id="" tvg-name="##### HU - DOCUMETARY #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - DOCUMETARY #####
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45185
+#EXTINF:-1 tvg-id="" tvg-name="HU - VIASAT NATURE" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/VIASATNATURE.png" group-title="EU | HUNGARIA",HU - VIASAT NATURE
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45184
+#EXTINF:-1 tvg-id="" tvg-name="HU - VIASAT EXPLORE" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/VIASATEXPLORE.png" group-title="EU | HUNGARIA",HU - VIASAT EXPLORE
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45182
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISCOVERY" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISCOVERY.png" group-title="EU | HUNGARIA",HU - DISCOVERY
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45181
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISCOVERY CHANNEL" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISCOVERYCHANNEL.png" group-title="EU | HUNGARIA",HU - DISCOVERY CHANNEL
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45180
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISCOVERY ID" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISCOVERYID.png" group-title="EU | HUNGARIA",HU - DISCOVERY ID
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45179
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISCOVERY SHOWCASE HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISCOVERYSHOWCASEHD.png" group-title="EU | HUNGARIA",HU - DISCOVERY SHOWCASE HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45178
+#EXTINF:-1 tvg-id="" tvg-name="HU - DISCOVERY WORLD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DISCOVERYWORLD.png" group-title="EU | HUNGARIA",HU - DISCOVERY WORLD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45177
+#EXTINF:-1 tvg-id="" tvg-name="HU - DIGI ANIMAL WORLD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/DIGIANIMALWORLD.png" group-title="EU | HUNGARIA",HU - DIGI ANIMAL WORLD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45176
+#EXTINF:-1 tvg-id="" tvg-name="HU - HISTORY HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/HISTORYHD.png" group-title="EU | HUNGARIA",HU - HISTORY HD
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/45175
+#EXTINF:-1 tvg-id="" tvg-name="HU - SUPER TV" tvg-logo="" group-title="EU | HUNGARIA",HU - SUPER TV
+http://tektv.co:80/wZnuF0AdtYdaeo/RNtXiSRtScwJg2H/76176
+
