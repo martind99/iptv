@@ -1,0 +1,1152 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DE:-----|NEWS|----------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|NEWS|----------------------.png" group-title="German",DE:-----|NEWS|----------------------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60657
+#EXTINF:-1 tvg-id="n.de" tvg-name="DE029:N TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE029NTV.png" group-title="German",DE029:N TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2654
+#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="DE067:Sky Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE067SkySportNews.png" group-title="German",DE067:Sky Sport News
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2616
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE078:ZDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE078ZDF.png" group-title="German",DE078:ZDF
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2605
+#EXTINF:-1 tvg-id="" tvg-name="DE122:ARD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE122ARD.png" group-title="German",DE122:ARD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29162
+#EXTINF:-1 tvg-id="" tvg-name="DE124:Augsburg TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE124AugsburgTV.png" group-title="German",DE124:Augsburg TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29160
+#EXTINF:-1 tvg-id="" tvg-name="DE128:tagesschau24 HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE128tagesschau24HD(1080P).png" group-title="German",DE128:tagesschau24 HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29156
+#EXTINF:-1 tvg-id="" tvg-name="DE168:EURONEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE168EURONEWSHD.png" group-title="German",DE168:EURONEWS HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29114
+#EXTINF:-1 tvg-id="" tvg-name="DE192:N24 News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="German",DE192:N24 News HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29090
+#EXTINF:-1 tvg-id="" tvg-name="DE195:N-TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE195N-TVHD.png" group-title="German",DE195:N-TV HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29087
+#EXTINF:-1 tvg-id="" tvg-name="DE197:NTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE197NTVHD.png" group-title="German",DE197:NTV HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29085
+#EXTINF:-1 tvg-id="" tvg-name="DE198:OK DESSAU HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE198OKDESSAUHD.png" group-title="German",DE198:OK DESSAU HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29084
+#EXTINF:-1 tvg-id="" tvg-name="DE222:RNF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE222RNFHD.png" group-title="German",DE222:RNF HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29060
+#EXTINF:-1 tvg-id="" tvg-name="DE287:SR TV mein HD d3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE287SRTVmeinHDd3.png" group-title="German",DE287:SR TV mein HD d3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28995
+#EXTINF:-1 tvg-id="" tvg-name="DE289:ARD Tagesschau 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE289ARDTagesschau24HD.png" group-title="German",DE289:ARD Tagesschau 24 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28993
+#EXTINF:-1 tvg-id="" tvg-name="DE295:ZDF NEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE295ZDFNEOHD.png" group-title="German",DE295:ZDF NEO HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28970
+#EXTINF:-1 tvg-id="" tvg-name="DE:-----|DOCUMENTARY|---------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|DOCUMENTARY|---------------.png" group-title="German",DE:-----|DOCUMENTARY|---------------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60653
+#EXTINF:-1 tvg-id="animal.planet.de" tvg-name="DE004:Animal Planet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE004AnimalPlanet.png" group-title="German",DE004:Animal Planet
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2679
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE013:Discovery DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE013DiscoveryDE.png" group-title="German",DE013:Discovery DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2670
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE021:History DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE021HistoryDE.png" group-title="German",DE021:History DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2662
+#EXTINF:-1 tvg-id="NatGeoPeople.de" tvg-name="DE030:NAT GEO People" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE030NATGEOPeople.png" group-title="German",DE030:NAT GEO People
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2653
+#EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-name="DE031:NAT GEO Wild DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE031NATGEOWildDE.png" group-title="German",DE031:NAT GEO Wild DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2652
+#EXTINF:-1 tvg-id="nat.geo.de" tvg-name="DE032:NAT GEO DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE032NATGEODE.png" group-title="German",DE032:NAT GEO DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2651
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE036:Phoenix" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE036Phoenix.png" group-title="German",DE036:Phoenix
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2647
+#EXTINF:-1 tvg-id="prosieben.de" tvg-name="DE037:ProSieben" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE037ProSieben.png" group-title="German",DE037:ProSieben
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2646
+#EXTINF:-1 tvg-id="prosieben.maxx.de" tvg-name="DE038:ProSieben MAXX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE038ProSiebenMAXX.png" group-title="German",DE038:ProSieben MAXX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2645
+#EXTINF:-1 tvg-id="" tvg-name="DE107:National Geographic HD Germany" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE107NationalGeographicHDGermany.png" group-title="German",DE107:National Geographic HD Germany
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29177
+#EXTINF:-1 tvg-id="" tvg-name="DE110:VIVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE110VIVA.png" group-title="German",DE110:VIVA
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29174
+#EXTINF:-1 tvg-id="" tvg-name="DE148:Baden TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE148BadenTV.png" group-title="German",DE148:Baden TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29135
+#EXTINF:-1 tvg-id="" tvg-name="DE206:PLANET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE206PLANETHD.png" group-title="German",DE206:PLANET HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29076
+#EXTINF:-1 tvg-id="" tvg-name="DE288:SWR BW HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE288SWRBWHD.png" group-title="German",DE288:SWR BW HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28994
+#EXTINF:-1 tvg-id="" tvg-name="DE:-----|CINEMA|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|CINEMA|--------------------.png" group-title="German",DE:-----|CINEMA|--------------------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60656
+#EXTINF:-1 tvg-id="13th.street.de" tvg-name="DE001:13TH Street" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE00113THStreet.png" group-title="German",DE001:13TH Street
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2682
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE002:3 SAT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE0023SATHD.png" group-title="German",DE002:3 SAT HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2681
+#EXTINF:-1 tvg-id="a.e.de" tvg-name="DE003:A&E DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE003A&EDE.png" group-title="German",DE003:A&E DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2680
+#EXTINF:-1 tvg-id="axn.de" tvg-name="DE008:AXN DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE008AXNDE.png" group-title="German",DE008:AXN DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2675
+#EXTINF:-1 tvg-id="disney.cinemagic.de" tvg-name="DE015:Disney cine magic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE015Disneycinemagic.png" group-title="German",DE015:Disney cine magic
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2668
+#EXTINF:-1 tvg-id="fox.de" tvg-name="DE020:Fox DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE020FoxDE.png" group-title="German",DE020:Fox DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2663
+#EXTINF:-1 tvg-id="kabel.eins.classics.de" tvg-name="DE022:Kabel 1 Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE022Kabel1Classic.png" group-title="German",DE022:Kabel 1 Classic
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2661
+#EXTINF:-1 tvg-id="orf1.de.se" tvg-name="DE034:ORF 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE034ORF1.png" group-title="German",DE034:ORF 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2649
+#EXTINF:-1 tvg-id="orf.2.de" tvg-name="DE035:ORF 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE035ORF2.png" group-title="German",DE035:ORF 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2648
+#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="DE041:RTL Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE041RTLCrime.png" group-title="German",DE041:RTL Crime
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2642
+#EXTINF:-1 tvg-id="rtl.nitro.de" tvg-name="DE043:RTL Nitro" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE043RTLNitro.png" group-title="German",DE043:RTL Nitro
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2640
+#EXTINF:-1 tvg-id="sat.1.gold.de" tvg-name="DE045:SAT 1 Gold" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE045SAT1Gold.png" group-title="German",DE045:SAT 1 Gold
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2638
+#EXTINF:-1 tvg-id="sat.1.de" tvg-name="DE046:SAT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE046SAT1.png" group-title="German",DE046:SAT 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2637
+#EXTINF:-1 tvg-id="servus.de" tvg-name="DE047:Servus TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE047ServusTV.png" group-title="German",DE047:Servus TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2636
+#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="DE050:Sky Atlantic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE050SkyAtlantic.png" group-title="German",DE050:Sky Atlantic
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2633
+#EXTINF:-1 tvg-id="sky.cinema.de" tvg-name="DE052:Sky Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE052SkyCinema.png" group-title="German",DE052:Sky Cinema
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2631
+#EXTINF:-1 tvg-id="sky.cinema+1.de" tvg-name="DE053:Sky Cinema 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE053SkyCinema1.png" group-title="German",DE053:Sky Cinema 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2630
+#EXTINF:-1 tvg-id="sky.cinema+24.de" tvg-name="DE054:Sky Cinema 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE054SkyCinema24.png" group-title="German",DE054:Sky Cinema 24
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2629
+#EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="DE055:Sky Cinema Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE055SkyCinemaAction.png" group-title="German",DE055:Sky Cinema Action
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2628
+#EXTINF:-1 tvg-id="sky.cinema.comedy.de" tvg-name="DE056:Sky Cinema Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE056SkyCinemaComedy.png" group-title="German",DE056:Sky Cinema Comedy
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2627
+#EXTINF:-1 tvg-id="sky.cinema.emotion.de" tvg-name="DE059:Sky Cinema Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE059SkyCinemaEmotion.png" group-title="German",DE059:Sky Cinema Emotion
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2624
+#EXTINF:-1 tvg-id="sky.cinema.family.de" tvg-name="DE060:Sky Cinema Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE060SkyCinemaFamily.png" group-title="German",DE060:Sky Cinema Family
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2623
+#EXTINF:-1 tvg-id="sky.cinema.hits.de" tvg-name="DE061:Sky Cinema Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE061SkyCinemaHits.png" group-title="German",DE061:Sky Cinema Hits
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2622
+#EXTINF:-1 tvg-id="" tvg-name="DE057:Sky Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE057SkyDisney.png" group-title="German",DE057:Sky Disney
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2626
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE058:Sky DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE058SkyDMAX.png" group-title="German",DE058:Sky DMAX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2625
+#EXTINF:-1 tvg-id="sky.krimi.de" tvg-name="DE063:Sky Krimi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE063SkyKrimi.png" group-title="German",DE063:Sky Krimi
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2620
+#EXTINF:-1 tvg-id="sky.cinema.nostalgie.de" tvg-name="DE062:Sky Cinema Nostalgie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE062SkyCinemaNostalgie.png" group-title="German",DE062:Sky Cinema Nostalgie
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2621
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE068:Universal DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE068UniversalDE.png" group-title="German",DE068:Universal DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2615
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE072:Syfy DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE072SyfyDE.png" group-title="German",DE072:Syfy DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2611
+#EXTINF:-1 tvg-id="tnt.comedy.de" tvg-name="DE073:TNT Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE073TNTComedy.png" group-title="German",DE073:TNT Comedy
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2610
+#EXTINF:-1 tvg-id="tnt.film.de" tvg-name="DE074:TNT Film" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE074TNTFilm.png" group-title="German",DE074:TNT Film
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2609
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="DE075:TNT Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE075TNTSeries.png" group-title="German",DE075:TNT Series
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2608
+#EXTINF:-1 tvg-id="" tvg-name="DE088:Sky Select 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE088SkySelect8.png" group-title="German",DE088:Sky Select 8
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29196
+#EXTINF:-1 tvg-id="" tvg-name="DE089:Sky Select 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE089SkySelect7.png" group-title="German",DE089:Sky Select 7
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29195
+#EXTINF:-1 tvg-id="" tvg-name="DE090:SKY SELECT 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE090SKYSELECT6.png" group-title="German",DE090:SKY SELECT 6
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29194
+#EXTINF:-1 tvg-id="" tvg-name="DE091:SKY SELECT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE091SKYSELECT5.png" group-title="German",DE091:SKY SELECT 5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29193
+#EXTINF:-1 tvg-id="" tvg-name="DE092:SKY SELECT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE092SKYSELECT4.png" group-title="German",DE092:SKY SELECT 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29192
+#EXTINF:-1 tvg-id="" tvg-name="DE093:SKY SELECT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE093SKYSELECT3.png" group-title="German",DE093:SKY SELECT 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29191
+#EXTINF:-1 tvg-id="" tvg-name="DE094:SKY SELECT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE094SKYSELECT2.png" group-title="German",DE094:SKY SELECT 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29190
+#EXTINF:-1 tvg-id="" tvg-name="DE095:SKY SELECT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE095SKYSELECT1.png" group-title="German",DE095:SKY SELECT 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29189
+#EXTINF:-1 tvg-id="" tvg-name="DE106:Pro7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE106Pro7.png" group-title="German",DE106:Pro7
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29178
+#EXTINF:-1 tvg-id="" tvg-name="DE108:Disney Cinemagic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE108DisneyCinemagicHD.png" group-title="German",DE108:Disney Cinemagic HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29176
+#EXTINF:-1 tvg-id="" tvg-name="DE123:SAT GOLD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE123SATGOLD1.png" group-title="German",DE123:SAT GOLD 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29161
+#EXTINF:-1 tvg-id="" tvg-name="DE133:Sky Cinema Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE133SkyCinemaFamily.png" group-title="German",DE133:Sky Cinema Family
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29151
+#EXTINF:-1 tvg-id="" tvg-name="DE153:CineDome 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE153CineDome1HD.png" group-title="German",DE153:CineDome 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29130
+#EXTINF:-1 tvg-id="" tvg-name="DE154:CineDome 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE154CineDome2HD.png" group-title="German",DE154:CineDome 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29129
+#EXTINF:-1 tvg-id="" tvg-name="DE155:CineDome 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE155CineDome3HD.png" group-title="German",DE155:CineDome 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29128
+#EXTINF:-1 tvg-id="" tvg-name="DE156:CineDome 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE156CineDome4HD.png" group-title="German",DE156:CineDome 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29127
+#EXTINF:-1 tvg-id="" tvg-name="DE157:CineDome 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE157CineDome5HD.png" group-title="German",DE157:CineDome 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29126
+#EXTINF:-1 tvg-id="" tvg-name="DE173:FILM CLUB 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE173FILMCLUB1HD.png" group-title="German",DE173:FILM CLUB 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29109
+#EXTINF:-1 tvg-id="" tvg-name="DE174:FILM CLUB 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE174FILMCLUB2HD.png" group-title="German",DE174:FILM CLUB 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29108
+#EXTINF:-1 tvg-id="" tvg-name="DE175:FILM CLUB 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE175FILMCLUB3HD.png" group-title="German",DE175:FILM CLUB 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29107
+#EXTINF:-1 tvg-id="" tvg-name="DE176:FILM CLUB 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE176FILMCLUB4HD.png" group-title="German",DE176:FILM CLUB 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29106
+#EXTINF:-1 tvg-id="" tvg-name="DE177:FILM CLUB 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE177FILMCLUB5HD.png" group-title="German",DE177:FILM CLUB 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29105
+#EXTINF:-1 tvg-id="" tvg-name="DE180:ORF 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE180ORF3HD.png" group-title="German",DE180:ORF 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29102
+#EXTINF:-1 tvg-id="" tvg-name="DE181:HEIMATKANAL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE181HEIMATKANALHD.png" group-title="German",DE181:HEIMATKANAL HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29101
+#EXTINF:-1 tvg-id="" tvg-name="DE189:KINO WELT TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE189KINOWELTTVHD.png" group-title="German",DE189:KINO WELT TV HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29093
+#EXTINF:-1 tvg-id="" tvg-name="DE207:POPCORN SELECT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE207POPCORNSELECT1FHD.png" group-title="German",DE207:POPCORN SELECT 1 FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29075
+#EXTINF:-1 tvg-id="" tvg-name="DE208:POPCORN SELECT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE208POPCORNSELECT2FHD.png" group-title="German",DE208:POPCORN SELECT 2 FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29074
+#EXTINF:-1 tvg-id="" tvg-name="DE209:POPCORN SELECT 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE209POPCORNSELECT3FHD.png" group-title="German",DE209:POPCORN SELECT 3 FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29073
+#EXTINF:-1 tvg-id="" tvg-name="DE210:POPCORN SELECT 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE210POPCORNSELECT4FHD.png" group-title="German",DE210:POPCORN SELECT 4 FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29072
+#EXTINF:-1 tvg-id="" tvg-name="DE211:POPCORN SELECT 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE211POPCORNSELECT5HD.png" group-title="German",DE211:POPCORN SELECT 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29071
+#EXTINF:-1 tvg-id="" tvg-name="DE212:POPCORN SELECT 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE212POPCORNSELECT6HD.png" group-title="German",DE212:POPCORN SELECT 6 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29070
+#EXTINF:-1 tvg-id="" tvg-name="DE213:POPCORN SELECT 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE213POPCORNSELECT7HD.png" group-title="German",DE213:POPCORN SELECT 7 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29069
+#EXTINF:-1 tvg-id="" tvg-name="DE229:Sky 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE229Sky1HD.png" group-title="German",DE229:Sky 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29053
+#EXTINF:-1 tvg-id="" tvg-name="DE232:Sky Cinema WESTERN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE232SkyCinemaWESTERN.png" group-title="German",DE232:Sky Cinema WESTERN
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29050
+#EXTINF:-1 tvg-id="" tvg-name="DE235:Kinowelt TV F" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE235KinoweltTVF.png" group-title="German",DE235:Kinowelt TV F
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29047
+#EXTINF:-1 tvg-id="" tvg-name="DE240:Sky Popcorn Select 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE240SkyPopcornSelect1HD.png" group-title="German",DE240:Sky Popcorn Select 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29042
+#EXTINF:-1 tvg-id="" tvg-name="DE241:Sky Popcorn Select 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE241SkyPopcornSelect2HD.png" group-title="German",DE241:Sky Popcorn Select 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29041
+#EXTINF:-1 tvg-id="" tvg-name="DE242:Sky Popcorn Select 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE242SkyPopcornSelect5HD.png" group-title="German",DE242:Sky Popcorn Select 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29040
+#EXTINF:-1 tvg-id="" tvg-name="DE243:SKY SELECT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE243SKYSELECT1HD.png" group-title="German",DE243:SKY SELECT 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29039
+#EXTINF:-1 tvg-id="" tvg-name="DE244:SKY SELECT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE244SKYSELECT2HD.png" group-title="German",DE244:SKY SELECT 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29038
+#EXTINF:-1 tvg-id="" tvg-name="DE245:SKY SELECT 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE245SKYSELECT3HD.png" group-title="German",DE245:SKY SELECT 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29037
+#EXTINF:-1 tvg-id="" tvg-name="DE246:SKY SELECT 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE246SKYSELECT4HD.png" group-title="German",DE246:SKY SELECT 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29036
+#EXTINF:-1 tvg-id="" tvg-name="DE247:SKY SELECT 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE247SKYSELECT5HD.png" group-title="German",DE247:SKY SELECT 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29035
+#EXTINF:-1 tvg-id="" tvg-name="DE248:SKY SELECT 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE248SKYSELECT6HD.png" group-title="German",DE248:SKY SELECT 6 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29034
+#EXTINF:-1 tvg-id="" tvg-name="DE249:SKY SELECT 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE249SKYSELECT7HD.png" group-title="German",DE249:SKY SELECT 7 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29033
+#EXTINF:-1 tvg-id="" tvg-name="DE250:SKY SELECT 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE250SKYSELECT8HD.png" group-title="German",DE250:SKY SELECT 8 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29032
+#EXTINF:-1 tvg-id="" tvg-name="DE251:SKY SELECT 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE251SKYSELECT9HD.png" group-title="German",DE251:SKY SELECT 9 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29031
+#EXTINF:-1 tvg-id="" tvg-name="DE252:Sky Select 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE252SkySelect10HD.png" group-title="German",DE252:Sky Select 10 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29030
+#EXTINF:-1 tvg-id="" tvg-name="DE253:Sky Select 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE253SkySelect11HD.png" group-title="German",DE253:Sky Select 11 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29029
+#EXTINF:-1 tvg-id="" tvg-name="DE254:Sky Select 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE254SkySelect12HD.png" group-title="German",DE254:Sky Select 12 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29028
+#EXTINF:-1 tvg-id="" tvg-name="DE255:SKY SELECT 13 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE255SKYSELECT13HD.png" group-title="German",DE255:SKY SELECT 13 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29027
+#EXTINF:-1 tvg-id="" tvg-name="DE256:SKY SELECT 14 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE256SKYSELECT14HD.png" group-title="German",DE256:SKY SELECT 14 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29026
+#EXTINF:-1 tvg-id="" tvg-name="DE257:SKY SELECT 15 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE257SKYSELECT15HD.png" group-title="German",DE257:SKY SELECT 15 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29025
+#EXTINF:-1 tvg-id="" tvg-name="DE258:SKY SELECT 16 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE258SKYSELECT16HD.png" group-title="German",DE258:SKY SELECT 16 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29024
+#EXTINF:-1 tvg-id="" tvg-name="DE259:SKY SELECT 17 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE259SKYSELECT17HD.png" group-title="German",DE259:SKY SELECT 17 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29023
+#EXTINF:-1 tvg-id="" tvg-name="DE260:SKY SELECT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE260SKYSELECTHD.png" group-title="German",DE260:SKY SELECT HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29022
+#EXTINF:-1 tvg-id="" tvg-name="DE280:SKY STORE 1 POPCORN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE280SKYSTORE1POPCORN.png" group-title="German",DE280:SKY STORE 1 POPCORN
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29002
+#EXTINF:-1 tvg-id="" tvg-name="DE281:Sky STORE 2 POPCORN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE281SkySTORE2POPCORN.png" group-title="German",DE281:Sky STORE 2 POPCORN
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29001
+#EXTINF:-1 tvg-id="" tvg-name="DE282:Sky STORE 3 POPCORN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE282SkySTORE3POPCORN.png" group-title="German",DE282:Sky STORE 3 POPCORN
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29000
+#EXTINF:-1 tvg-id="" tvg-name="DE283:SKY STORE 5 POPCORN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE283SKYSTORE5POPCORN.png" group-title="German",DE283:SKY STORE 5 POPCORN
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28999
+#EXTINF:-1 tvg-id="" tvg-name="DE285:Sony Tv HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE285SonyTvHD.png" group-title="German",DE285:Sony Tv HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28997
+#EXTINF:-1 tvg-id="" tvg-name="DE:-----|KIDS|----------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|KIDS|----------------------.png" group-title="German",DE:-----|KIDS|----------------------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60655
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE009:Boomerang DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE009BoomerangDE.png" group-title="German",DE009:Boomerang DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2674
+#EXTINF:-1 tvg-id="cartoon.network.de" tvg-name="DE010:Cartoon Network DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE010CartoonNetworkDE.png" group-title="German",DE010:Cartoon Network DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2673
+#EXTINF:-1 tvg-id="disney.de" tvg-name="DE014:Disney DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE014DisneyDE.png" group-title="German",DE014:Disney DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2669
+#EXTINF:-1 tvg-id="disney.junior.de" tvg-name="DE016:Disney JR DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE016DisneyJRDE.png" group-title="German",DE016:Disney JR DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2667
+#EXTINF:-1 tvg-id="disney.xd.de" tvg-name="DE017:Disney XD DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE017DisneyXDDE.png" group-title="German",DE017:Disney XD DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2666
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE025:Kika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="German",DE025:Kika
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2658
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="DE033:Nickelodeon DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE033NickelodeonDE.png" group-title="German",DE033:Nickelodeon DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2650
+#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:Super RTL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="German",DE071:Super RTL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2612
+#EXTINF:-1 tvg-id="" tvg-name="DE147:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE147BabyTV.png" group-title="German",DE147:Baby TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29136
+#EXTINF:-1 tvg-id="" tvg-name="DE164:VIVA/COMEDY CENTRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE164VIVA/COMEDYCENTRAL.png" group-title="German",DE164:VIVA/COMEDY CENTRAL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29119
+#EXTINF:-1 tvg-id="" tvg-name="DE185:Junior HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE185JuniorHD.png" group-title="German",DE185:Junior HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29097
+#EXTINF:-1 tvg-id="" tvg-name="DE196:Nick HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE196NickHD.png" group-title="German",DE196:Nick HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29086
+#EXTINF:-1 tvg-id="" tvg-name="DE227:Toggo Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE227ToggoPlus.png" group-title="German",DE227:Toggo Plus
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29055
+#EXTINF:-1 tvg-id="" tvg-name="DE:-----|SPORT|---------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|SPORT|---------------------.png" group-title="German",DE:-----|SPORT|---------------------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60652
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE018:Euro Sport 1 DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE018EuroSport1DE.png" group-title="German",DE018:Euro Sport 1 DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2665
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="DE019:Euro Sport 2 DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE019EuroSport2DE.png" group-title="German",DE019:Euro Sport 2 DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2664
+#EXTINF:-1 tvg-id="sky.bundesliga.1.de" tvg-name="DE051:Sky Bundesliga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE051SkyBundesliga1.png" group-title="German",DE051:Sky Bundesliga 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2632
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE064:Sky Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE064SkySport1.png" group-title="German",DE064:Sky Sport 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2619
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE065:Sky Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE065SkySport2.png" group-title="German",DE065:Sky Sport 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2618
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE066:Sky Sport Austria" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE066SkySportAustria.png" group-title="German",DE066:Sky Sport Austria
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2617
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE069:Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE069Sport1.png" group-title="German",DE069:Sport 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2614
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE070:Sport Digital" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE070SportDigital.png" group-title="German",DE070:Sport Digital
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2613
+#EXTINF:-1 tvg-id="" tvg-name="DE079:Sky Sport 9 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE079SkySport9HD(DuringGamesonly).png" group-title="German",DE079:Sky Sport 9 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29205
+#EXTINF:-1 tvg-id="" tvg-name="DE080:Sky Sport 8 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE080SkySport8HD(DuringGamesonly).png" group-title="German",DE080:Sky Sport 8 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29204
+#EXTINF:-1 tvg-id="" tvg-name="DE081:Sky Sport 7 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE081SkySport7HD(DuringGamesonly).png" group-title="German",DE081:Sky Sport 7 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29203
+#EXTINF:-1 tvg-id="" tvg-name="DE082:Sky Sport 6 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE082SkySport6HD(DuringGamesonly).png" group-title="German",DE082:Sky Sport 6 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29202
+#EXTINF:-1 tvg-id="" tvg-name="DE083:Sky Sport 5 HD  ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE083SkySport5HD(DuringGamesonly).png" group-title="German",DE083:Sky Sport 5 HD  ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29201
+#EXTINF:-1 tvg-id="" tvg-name="DE084:Sky Sport 4 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE084SkySport4HD(DuringGamesonly).png" group-title="German",DE084:Sky Sport 4 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29200
+#EXTINF:-1 tvg-id="" tvg-name="DE085:Sky Sport 3 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE085SkySport3HD(DuringGamesonly).png" group-title="German",DE085:Sky Sport 3 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29199
+#EXTINF:-1 tvg-id="" tvg-name="DE086:Sky Sport 11 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE086SkySport11HD(DuringGamesonly).png" group-title="German",DE086:Sky Sport 11 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29198
+#EXTINF:-1 tvg-id="" tvg-name="DE087:Sky Sport 10 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE087SkySport10HD(DuringGamesonly).png" group-title="German",DE087:Sky Sport 10 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29197
+#EXTINF:-1 tvg-id="" tvg-name="DE096:Sky BUNDESLIGA 9 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE096SkyBUNDESLIGA9HD(DuringGamesonly).png" group-title="German",DE096:Sky BUNDESLIGA 9 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29188
+#EXTINF:-1 tvg-id="" tvg-name="DE097:Sky BUNDESLIGA 8 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE097SkyBUNDESLIGA8HD(DuringGamesonly).png" group-title="German",DE097:Sky BUNDESLIGA 8 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29187
+#EXTINF:-1 tvg-id="" tvg-name="DE098:Sky BUNDESLIGA 7 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE098SkyBUNDESLIGA7HD(DuringGamesonly).png" group-title="German",DE098:Sky BUNDESLIGA 7 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29186
+#EXTINF:-1 tvg-id="" tvg-name="DE099:Sky BUNDESLIGA 6 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE099SkyBUNDESLIGA6HD(DuringGamesonly).png" group-title="German",DE099:Sky BUNDESLIGA 6 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29185
+#EXTINF:-1 tvg-id="" tvg-name="DE100:Sky BUNDESLIGA 5 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE100SkyBUNDESLIGA5HD(DuringGamesonly).png" group-title="German",DE100:Sky BUNDESLIGA 5 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29184
+#EXTINF:-1 tvg-id="" tvg-name="DE101:Sky BUNDESLIGA 4 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE101SkyBUNDESLIGA4HD(DuringGamesonly).png" group-title="German",DE101:Sky BUNDESLIGA 4 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29183
+#EXTINF:-1 tvg-id="" tvg-name="DE102:Sky BUNDESLIGA 3 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE102SkyBUNDESLIGA3HD(DuringGamesonly).png" group-title="German",DE102:Sky BUNDESLIGA 3 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29182
+#EXTINF:-1 tvg-id="" tvg-name="DE103:SKY BUNDESLIGA 2 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE103SKYBUNDESLIGA2HD(DuringGamesonly).png" group-title="German",DE103:SKY BUNDESLIGA 2 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29181
+#EXTINF:-1 tvg-id="" tvg-name="DE104:Sky BUNDESLIGA 10 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE104SkyBUNDESLIGA10HD(DuringGamesonly).png" group-title="German",DE104:Sky BUNDESLIGA 10 HD ( During Games only )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29180
+#EXTINF:-1 tvg-id="" tvg-name="DE112:Sport 1  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE112Sport1HD.png" group-title="German",DE112:Sport 1  HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29172
+#EXTINF:-1 tvg-id="" tvg-name="DE126:SPORT1 HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE126SPORT1HD(1080P).png" group-title="German",DE126:SPORT1 HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29158
+#EXTINF:-1 tvg-id="" tvg-name="DE127:SR Fernsehen HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE127SRFernsehenHD(1080P).png" group-title="German",DE127:SR Fernsehen HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29157
+#EXTINF:-1 tvg-id="" tvg-name="DE132:Motorvision TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE132MotorvisionTV.png" group-title="German",DE132:Motorvision TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29152
+#EXTINF:-1 tvg-id="" tvg-name="DE135:Eurosport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE135Eurosport1HD.png" group-title="German",DE135:Eurosport 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29149
+#EXTINF:-1 tvg-id="" tvg-name="DE136:Sky Germany Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE136SkyGermanySport3HD.png" group-title="German",DE136:Sky Germany Sport 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29148
+#EXTINF:-1 tvg-id="" tvg-name="DE137:Sky Germany Sport 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE137SkyGermanySport9HD.png" group-title="German",DE137:Sky Germany Sport 9 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29147
+#EXTINF:-1 tvg-id="" tvg-name="DE138:Sky Germany Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE138SkyGermanySport8HD.png" group-title="German",DE138:Sky Germany Sport 8 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29146
+#EXTINF:-1 tvg-id="" tvg-name="DE139:Sky Germany Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE139SkyGermanySport7HD.png" group-title="German",DE139:Sky Germany Sport 7 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29145
+#EXTINF:-1 tvg-id="" tvg-name="DE140:Sky Germany Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE140SkyGermanySport6HD.png" group-title="German",DE140:Sky Germany Sport 6 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29144
+#EXTINF:-1 tvg-id="" tvg-name="DE141:Sky Germany Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE141SkyGermanySport5HD.png" group-title="German",DE141:Sky Germany Sport 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29143
+#EXTINF:-1 tvg-id="" tvg-name="DE142:Sky Germany Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE142SkyGermanySport4HD.png" group-title="German",DE142:Sky Germany Sport 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29142
+#EXTINF:-1 tvg-id="" tvg-name="DE143:Sky Germany Sport 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE143SkyGermanySport11HD.png" group-title="German",DE143:Sky Germany Sport 11 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29141
+#EXTINF:-1 tvg-id="" tvg-name="DE144:Sky Germany Sport 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE144SkyGermanySport10HD.png" group-title="German",DE144:Sky Germany Sport 10 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29140
+#EXTINF:-1 tvg-id="" tvg-name="DE146:Auto Motor Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE146AutoMotorSportHD.png" group-title="German",DE146:Auto Motor Sport HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29137
+#EXTINF:-1 tvg-id="" tvg-name="DE149:BAYERN FC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE149BAYERNFCTV.png" group-title="German",DE149:BAYERN FC TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29134
+#EXTINF:-1 tvg-id="" tvg-name="DE161:DAZN BAR 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE161DAZNBAR1HD.png" group-title="German",DE161:DAZN BAR 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29122
+#EXTINF:-1 tvg-id="" tvg-name="DE162:DAZN BAR 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE162DAZNBAR2HD.png" group-title="German",DE162:DAZN BAR 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29121
+#EXTINF:-1 tvg-id="" tvg-name="DE169:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE169EUROSPORT1HD.png" group-title="German",DE169:EUROSPORT 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29113
+#EXTINF:-1 tvg-id="" tvg-name="DE170:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE170EUROSPORT2HD.png" group-title="German",DE170:EUROSPORT 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29112
+#EXTINF:-1 tvg-id="" tvg-name="DE171:Eurosport 2 Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE171Eurosport2Xtra.png" group-title="German",DE171:Eurosport 2 Xtra
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29111
+#EXTINF:-1 tvg-id="" tvg-name="DE172:TV Oberpfalz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE172TVOberpfalz.png" group-title="German",DE172:TV Oberpfalz
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29110
+#EXTINF:-1 tvg-id="" tvg-name="DE182:HR Fernsehen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE182HRFernsehenHD.png" group-title="German",DE182:HR Fernsehen HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29100
+#EXTINF:-1 tvg-id="" tvg-name="DE183:Telekom Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE183TelekomSport2.png" group-title="German",DE183:Telekom Sport 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29099
+#EXTINF:-1 tvg-id="" tvg-name="DE191:Motorvision HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE191MotorvisionHD.png" group-title="German",DE191:Motorvision HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29091
+#EXTINF:-1 tvg-id="" tvg-name="DE204:OLYMPIC CHANNEL SPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE204OLYMPICCHANNELSPORT2HD.png" group-title="German",DE204:OLYMPIC CHANNEL SPORT 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29078
+#EXTINF:-1 tvg-id="" tvg-name="DE218:RAN 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE218RAN1HD.png" group-title="German",DE218:RAN 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29064
+#EXTINF:-1 tvg-id="" tvg-name="DE228:Telekom Fussball 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE228TelekomFussball1HD.png" group-title="German",DE228:Telekom Fussball 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29054
+#EXTINF:-1 tvg-id="" tvg-name="DE230:DAZN 2 Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE230DAZN2Bar.png" group-title="German",DE230:DAZN 2 Bar
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29052
+#EXTINF:-1 tvg-id="" tvg-name="DE231:Telekom Fussball 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE231TelekomFussball2HD.png" group-title="German",DE231:Telekom Fussball 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29051
+#EXTINF:-1 tvg-id="" tvg-name="DE234:Sky EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE234SkyEUROSPORT1HD.png" group-title="German",DE234:Sky EUROSPORT 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29048
+#EXTINF:-1 tvg-id="" tvg-name="DE236:Telekom Fussball 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE236TelekomFussball3HD.png" group-title="German",DE236:Telekom Fussball 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29046
+#EXTINF:-1 tvg-id="" tvg-name="DE237:Telekom Fussball 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE237TelekomFussball4HD.png" group-title="German",DE237:Telekom Fussball 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29045
+#EXTINF:-1 tvg-id="" tvg-name="DE239:Telekom Fussball 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE239TelekomFussball5HD.png" group-title="German",DE239:Telekom Fussball 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29043
+#EXTINF:-1 tvg-id="" tvg-name="DE261:Sky Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE261SkySport3HD.png" group-title="German",DE261:Sky Sport 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29021
+#EXTINF:-1 tvg-id="" tvg-name="DE262:Sky Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE262SkySport4HD.png" group-title="German",DE262:Sky Sport 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29020
+#EXTINF:-1 tvg-id="" tvg-name="DE263:Sky Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE263SkySport5HD.png" group-title="German",DE263:Sky Sport 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29019
+#EXTINF:-1 tvg-id="" tvg-name="DE264:Sky Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE264SkySport6HD.png" group-title="German",DE264:Sky Sport 6 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29018
+#EXTINF:-1 tvg-id="" tvg-name="DE265:Sky Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE265SkySport7HD.png" group-title="German",DE265:Sky Sport 7 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29017
+#EXTINF:-1 tvg-id="" tvg-name="DE266:Sky Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE266SkySport8HD.png" group-title="German",DE266:Sky Sport 8 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29016
+#EXTINF:-1 tvg-id="" tvg-name="DE267:Sky Sport 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE267SkySport9HD.png" group-title="German",DE267:Sky Sport 9 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29015
+#EXTINF:-1 tvg-id="" tvg-name="DE268:Sky Sport 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE268SkySport10HD.png" group-title="German",DE268:Sky Sport 10 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29014
+#EXTINF:-1 tvg-id="" tvg-name="DE269:Sky Sport Bundesliga 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE269SkySportBundesliga1HD.png" group-title="German",DE269:Sky Sport Bundesliga 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29013
+#EXTINF:-1 tvg-id="" tvg-name="DE270:Sky Sport Bundesliga 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE270SkySportBundesliga2HD.png" group-title="German",DE270:Sky Sport Bundesliga 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29012
+#EXTINF:-1 tvg-id="" tvg-name="DE271:Sky Sport Bundesliga 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE271SkySportBundesliga3HD.png" group-title="German",DE271:Sky Sport Bundesliga 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29011
+#EXTINF:-1 tvg-id="" tvg-name="DE272:Sky Sport Bundesliga 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE272SkySportBundesliga4HD.png" group-title="German",DE272:Sky Sport Bundesliga 4 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29010
+#EXTINF:-1 tvg-id="" tvg-name="DE273:Sky Sport Bundesliga 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE273SkySportBundesliga5HD.png" group-title="German",DE273:Sky Sport Bundesliga 5 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29009
+#EXTINF:-1 tvg-id="" tvg-name="DE274:Sky Sport Bundesliga 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE274SkySportBundesliga6HD.png" group-title="German",DE274:Sky Sport Bundesliga 6 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29008
+#EXTINF:-1 tvg-id="" tvg-name="DE275:Sky Sport Bundesliga 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE275SkySportBundesliga7HD.png" group-title="German",DE275:Sky Sport Bundesliga 7 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29007
+#EXTINF:-1 tvg-id="" tvg-name="DE276:Sky Sport Bundesliga 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE276SkySportBundesliga8HD.png" group-title="German",DE276:Sky Sport Bundesliga 8 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29006
+#EXTINF:-1 tvg-id="" tvg-name="DE277:Sky Sport Bundesliga 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE277SkySportBundesliga9HD.png" group-title="German",DE277:Sky Sport Bundesliga 9 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29005
+#EXTINF:-1 tvg-id="" tvg-name="DE278:Sky Sport Bundesliga 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE278SkySportBundesliga10HD.png" group-title="German",DE278:Sky Sport Bundesliga 10 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29004
+#EXTINF:-1 tvg-id="" tvg-name="DE279:Sky Sport HD (AU)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE279SkySportHD(AU).png" group-title="German",DE279:Sky Sport HD (AU)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29003
+#EXTINF:-1 tvg-id="" tvg-name="DE290:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE290DAZN1.png" group-title="German",DE290:DAZN 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28992
+#EXTINF:-1 tvg-id="" tvg-name="DE291:BBL Sport 1 (ONLY ON MATCHDAY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE291BBLSport1(ONLYONMATCHDAY).png" group-title="German",DE291:BBL Sport 1 (ONLY ON MATCHDAY)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28991
+#EXTINF:-1 tvg-id="" tvg-name="DE292:BBL Sport 2 (ONLY ON MATCHDAY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE292BBLSport2(ONLYONMATCHDAY).png" group-title="German",DE292:BBL Sport 2 (ONLY ON MATCHDAY)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28990
+#EXTINF:-1 tvg-id="" tvg-name="DE293:BBL Sport 3 (ONLY ON MATCHDAY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE293BBLSport3(ONLYONMATCHDAY).png" group-title="German",DE293:BBL Sport 3 (ONLY ON MATCHDAY)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28989
+#EXTINF:-1 tvg-id="" tvg-name="DE294:BBL Sport 4 (ONLY ON MATCHDAY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE294BBLSport4(ONLYONMATCHDAY).png" group-title="German",DE294:BBL Sport 4 (ONLY ON MATCHDAY)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28980
+#EXTINF:-1 tvg-id="" tvg-name="DE:-----|ENTERTAINMENT|-------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|ENTERTAINMENT|-------------.png" group-title="German",DE:-----|ENTERTAINMENT|-------------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60654
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE006:Ard Alpha" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE006ArdAlpha.png" group-title="German",DE006:Ard Alpha
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2677
+#EXTINF:-1 tvg-id="" tvg-name="DE158:Classica HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE158ClassicaHD.png" group-title="German",DE158:Classica HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29125
+#EXTINF:-1 tvg-id="" tvg-name="DE284:SONNE NKLAR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE284SONNENKLARHD.png" group-title="German",DE284:SONNE NKLAR HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28998
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE007:Arte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE007Arte.png" group-title="German",DE007:Arte
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2676
+#EXTINF:-1 tvg-id="das.erste.de" tvg-name="DE011:Das Erste" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE011DasErste.png" group-title="German",DE011:Das Erste
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2672
+#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE012:Deluxe Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE012DeluxeMusic.png" group-title="German",DE012:Deluxe Music
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2671
+#EXTINF:-1 tvg-id="kabel.eins.doku.de" tvg-name="DE023:Kabel 1 Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE023Kabel1Doku.png" group-title="German",DE023:Kabel 1 Doku
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2660
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="DE024:Kabel 1 Eins" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="German",DE024:Kabel 1 Eins
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2659
+#EXTINF:-1 tvg-id="" tvg-name="DE026:MGM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE026MGM.png" group-title="German",DE026:MGM
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2657
+#EXTINF:-1 tvg-id="mtv.de" tvg-name="DE027:MTV DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE027MTVDE.png" group-title="German",DE027:MTV DE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2656
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE039:RTL 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE039RTL1.png" group-title="German",DE039:RTL 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2644
+#EXTINF:-1 tvg-id="rtl.2.de" tvg-name="DE040:RTL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE040RTL2.png" group-title="German",DE040:RTL 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2643
+#EXTINF:-1 tvg-id="rtl.living.de" tvg-name="DE042:RTL Living" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE042RTLLiving.png" group-title="German",DE042:RTL Living
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2641
+#EXTINF:-1 tvg-id="rtl.passion.de" tvg-name="DE044:RTL Passion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE044RTLPassion.png" group-title="German",DE044:RTL Passion
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2639
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE048:Sixx" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE048Sixx.png" group-title="German",DE048:Sixx
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2635
+#EXTINF:-1 tvg-id="sky.arts.de" tvg-name="DE049:Sky Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE049SkyArts.png" group-title="German",DE049:Sky Arts
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2634
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE076:VOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE076VOX.png" group-title="German",DE076:VOX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2607
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE077:WDR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE077WDR.png" group-title="German",DE077:WDR
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2606
+#EXTINF:-1 tvg-id="" tvg-name="DE105:RTL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE105RTLHD.png" group-title="German",DE105:RTL HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29179
+#EXTINF:-1 tvg-id="" tvg-name="DE109:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE109Classica.png" group-title="German",DE109:Classica
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29175
+#EXTINF:-1 tvg-id="" tvg-name="DE111:ZEE ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE111ZEEONE.png" group-title="German",DE111:ZEE ONE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29173
+#EXTINF:-1 tvg-id="" tvg-name="DE113:Pro7 Fun HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE113Pro7FunHD.png" group-title="German",DE113:Pro7 Fun HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29171
+#EXTINF:-1 tvg-id="" tvg-name="DE114:RTL Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE114RTLPlus.png" group-title="German",DE114:RTL Plus
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29170
+#EXTINF:-1 tvg-id="" tvg-name="DE115:Hr-fernsehen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE115Hr-fernsehenHD.png" group-title="German",DE115:Hr-fernsehen HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29169
+#EXTINF:-1 tvg-id="" tvg-name="DE116:MDR S-Anhalt HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE116MDRS-AnhaltHD(1080P).png" group-title="German",DE116:MDR S-Anhalt HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29168
+#EXTINF:-1 tvg-id="" tvg-name="DE117:MDR Sachsen HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE117MDRSachsenHD(1080P).png" group-title="German",DE117:MDR Sachsen HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29167
+#EXTINF:-1 tvg-id="" tvg-name="DE118:MDR Thüringen HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE118MDRThüringenHD(1080P).png" group-title="German",DE118:MDR Thüringen HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29166
+#EXTINF:-1 tvg-id="" tvg-name="DE119:QVC BEAUTY & STYLE HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE119QVCBEAUTY&STYLEHD(1080P).png" group-title="German",DE119:QVC BEAUTY & STYLE HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29165
+#EXTINF:-1 tvg-id="" tvg-name="DE120:Rbb Berlin HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE120RbbBerlinHD(1080P).png" group-title="German",DE120:Rbb Berlin HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29164
+#EXTINF:-1 tvg-id="" tvg-name="DE121:rbb Brandenburg HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE121rbbBrandenburgHD(1080P).png" group-title="German",DE121:rbb Brandenburg HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29163
+#EXTINF:-1 tvg-id="" tvg-name="DE125:SPIEGEL TV Wissen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE125SPIEGELTVWissenHD.png" group-title="German",DE125:SPIEGEL TV Wissen HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29159
+#EXTINF:-1 tvg-id="" tvg-name="DE129:TLC HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE129TLCHD(1080P).png" group-title="German",DE129:TLC HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29155
+#EXTINF:-1 tvg-id="" tvg-name="DE130:Zee One HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE130ZeeOneHD(1080P).png" group-title="German",DE130:Zee One HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29154
+#EXTINF:-1 tvg-id="" tvg-name="DE131:E! Entertainm HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE131E!EntertainmHD(1080P).png" group-title="German",DE131:E! Entertainm HD ( 1080P )
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29153
+#EXTINF:-1 tvg-id="" tvg-name="DE134:RTL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE134RTLHD.png" group-title="German",DE134:RTL HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29150
+#EXTINF:-1 tvg-id="" tvg-name="DE145:Munchen TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE145MunchenTV.png" group-title="German",DE145:Munchen TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29139
+#EXTINF:-1 tvg-id="" tvg-name="DE150:BLK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE150BLKTV.png" group-title="German",DE150:BLK TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29133
+#EXTINF:-1 tvg-id="" tvg-name="DE151:BR FERNSEHEN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE151BRFERNSEHENHD.png" group-title="German",DE151:BR FERNSEHEN HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29132
+#EXTINF:-1 tvg-id="" tvg-name="DE152:ZDF INFO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE152ZDFINFOHD.png" group-title="German",DE152:ZDF INFO HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29131
+#EXTINF:-1 tvg-id="" tvg-name="DE159:XITE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE159XITEHD.png" group-title="German",DE159:XITE HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29124
+#EXTINF:-1 tvg-id="" tvg-name="DE160:Chemnitz TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE160ChemnitzTV.png" group-title="German",DE160:Chemnitz TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29123
+#EXTINF:-1 tvg-id="" tvg-name="DE163:Deutsches Musik Fernsehen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE163DeutschesMusikFernsehenHD.png" group-title="German",DE163:Deutsches Musik Fernsehen HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29120
+#EXTINF:-1 tvg-id="" tvg-name="DE165:DRF 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE165DRF1HD.png" group-title="German",DE165:DRF 1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29118
+#EXTINF:-1 tvg-id="" tvg-name="DE166:E! ENTERTAINM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE166E!ENTERTAINMHD.png" group-title="German",DE166:E! ENTERTAINM HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29116
+#EXTINF:-1 tvg-id="" tvg-name="DE167:ELBEKANAL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE167ELBEKANALHD.png" group-title="German",DE167:ELBEKANAL HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29115
+#EXTINF:-1 tvg-id="" tvg-name="DE178:FIX and FOXI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE178FIXandFOXI.png" group-title="German",DE178:FIX and FOXI
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29104
+#EXTINF:-1 tvg-id="" tvg-name="DE179:Friesischer Rundfunk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE179FriesischerRundfunkHD.png" group-title="German",DE179:Friesischer Rundfunk HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29103
+#EXTINF:-1 tvg-id="" tvg-name="DE184:Jukebox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE184JukeboxHD.png" group-title="German",DE184:Jukebox HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29098
+#EXTINF:-1 tvg-id="" tvg-name="DE186:Dresden TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE186DresdenTV.png" group-title="German",DE186:Dresden TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29096
+#EXTINF:-1 tvg-id="" tvg-name="DE187:Tele 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE187Tele5.png" group-title="German",DE187:Tele 5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29095
+#EXTINF:-1 tvg-id="" tvg-name="DE188:Kabel Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE188KabelDoku.png" group-title="German",DE188:Kabel Doku
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29094
+#EXTINF:-1 tvg-id="" tvg-name="DE190:MDR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE190MDRHD.png" group-title="German",DE190:MDR HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29092
+#EXTINF:-1 tvg-id="" tvg-name="DE193:NDR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE193NDRHD.png" group-title="German",DE193:NDR HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29089
+#EXTINF:-1 tvg-id="" tvg-name="DE194:NITRO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE194NITROHD.png" group-title="German",DE194:NITRO HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29088
+#EXTINF:-1 tvg-id="" tvg-name="DE199:OK MAGDEBURG REGGIO TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE199OKMAGDEBURGREGGIOTVFHD.png" group-title="German",DE199:OK MAGDEBURG REGGIO TV FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29083
+#EXTINF:-1 tvg-id="" tvg-name="DE200:OK MERSEBURG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE200OKMERSEBURGHD.png" group-title="German",DE200:OK MERSEBURG HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29082
+#EXTINF:-1 tvg-id="" tvg-name="DE201:OK Wernigerode" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE201OKWernigerode.png" group-title="German",DE201:OK Wernigerode
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29081
+#EXTINF:-1 tvg-id="" tvg-name="DE202:OKTO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE202OKTOTV.png" group-title="German",DE202:OKTO TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29080
+#EXTINF:-1 tvg-id="" tvg-name="DE203:Oldenburg eins TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE203OldenburgeinsTVHD.png" group-title="German",DE203:Oldenburg eins TV HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29079
+#EXTINF:-1 tvg-id="" tvg-name="DE205:ONE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE205ONEHD.png" group-title="German",DE205:ONE HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29077
+#EXTINF:-1 tvg-id="" tvg-name="DE214:Pro 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE214Pro7HD.png" group-title="German",DE214:Pro 7 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29068
+#EXTINF:-1 tvg-id="" tvg-name="DE215:PRO 7 MAXX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE215PRO7MAXXFHD.png" group-title="German",DE215:PRO 7 MAXX FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29067
+#EXTINF:-1 tvg-id="" tvg-name="DE216:Deluxe Music HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE216DeluxeMusicHD.png" group-title="German",DE216:Deluxe Music HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29066
+#EXTINF:-1 tvg-id="" tvg-name="DE217:QVC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE217QVCHD.png" group-title="German",DE217:QVC HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29065
+#EXTINF:-1 tvg-id="" tvg-name="DE219:rbb HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE219rbbHD.png" group-title="German",DE219:rbb HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29063
+#EXTINF:-1 tvg-id="" tvg-name="DE220:RFH HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE220RFHHD.png" group-title="German",DE220:RFH HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29062
+#EXTINF:-1 tvg-id="" tvg-name="DE221:RIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221RICHD.png" group-title="German",DE221:RIC HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29061
+#EXTINF:-1 tvg-id="" tvg-name="DE223:Romance TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE223RomanceTVHD.png" group-title="German",DE223:Romance TV HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29059
+#EXTINF:-1 tvg-id="" tvg-name="DE224:RTL II HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE224RTLIIHD.png" group-title="German",DE224:RTL II HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29057
+#EXTINF:-1 tvg-id="" tvg-name="DE225:RTL FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE225RTLFHD.png" group-title="German",DE225:RTL FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29058
+#EXTINF:-1 tvg-id="" tvg-name="DE226:RTL Nitro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE226RTLNitroHD.png" group-title="German",DE226:RTL Nitro HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29056
+#EXTINF:-1 tvg-id="" tvg-name="DE233:Sky Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE233SkyClassica.png" group-title="German",DE233:Sky Classica
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29049
+#EXTINF:-1 tvg-id="" tvg-name="DE238:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE238TLCHD.png" group-title="German",DE238:TLC HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/29044
+#EXTINF:-1 tvg-id="" tvg-name="DE286:Spiegel TV Wissen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE286SpiegelTVWissenHD.png" group-title="German",DE286:Spiegel TV Wissen HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/28996
+#EXTINF:-1 tvg-id="" tvg-name="------|Hungary|------" tvg-logo="" group-title="Hungary",------|Hungary|------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31351
+#EXTINF:-1 tvg-id="sport.2.cz" tvg-name="HU001:Sport 2 CZE/HU" tvg-logo="" group-title="Hungary",HU001:Sport 2 CZE/HU
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31350
+#EXTINF:-1 tvg-id="balaton.hu" tvg-name="HU002:Balaton" tvg-logo="" group-title="Hungary",HU002:Balaton
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31349
+#EXTINF:-1 tvg-id="sport.1.cz" tvg-name="HU003:Sport 1 CZE/HU" tvg-logo="" group-title="Hungary",HU003:Sport 1 CZE/HU
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31348
+#EXTINF:-1 tvg-id="" tvg-name="HU004:Sport 1" tvg-logo="" group-title="Hungary",HU004:Sport 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31347
+#EXTINF:-1 tvg-id="digi.sport.3.hu" tvg-name="HU005:DIGI SPORT 3" tvg-logo="" group-title="Hungary",HU005:DIGI SPORT 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31346
+#EXTINF:-1 tvg-id="digi.sport.2.hu" tvg-name="HU006:DIGI SPORT 2" tvg-logo="" group-title="Hungary",HU006:DIGI SPORT 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31345
+#EXTINF:-1 tvg-id="digi.sport.1.hu" tvg-name="HU007:DIGI SPORT 1" tvg-logo="" group-title="Hungary",HU007:DIGI SPORT 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31344
+#EXTINF:-1 tvg-id="" tvg-name="HU008:1 Music" tvg-logo="" group-title="Hungary",HU008:1 Music
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31343
+#EXTINF:-1 tvg-id="" tvg-name="HU009:2 Channel" tvg-logo="" group-title="Hungary",HU009:2 Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31342
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="HU010:AMC" tvg-logo="" group-title="Hungary",HU010:AMC
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31341
+#EXTINF:-1 tvg-id="animal.planet.hu" tvg-name="HU011:ANIMAL PLANET" tvg-logo="" group-title="Hungary",HU011:ANIMAL PLANET
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31340
+#EXTINF:-1 tvg-id="atv.hu" tvg-name="HU012:ATV" tvg-logo="" group-title="Hungary",HU012:ATV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31339
+#EXTINF:-1 tvg-id="auto.motor.sport.hu" tvg-name="HU013:Auto Motor Sport" tvg-logo="" group-title="Hungary",HU013:Auto Motor Sport
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31338
+#EXTINF:-1 tvg-id="axn.hu" tvg-name="HU014:AXN" tvg-logo="" group-title="Hungary",HU014:AXN
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31337
+#EXTINF:-1 tvg-id="" tvg-name="HU015:AXN Black" tvg-logo="" group-title="Hungary",HU015:AXN Black
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31336
+#EXTINF:-1 tvg-id="axn.hu" tvg-name="HU016:AXN CZ/HU" tvg-logo="" group-title="Hungary",HU016:AXN CZ/HU
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31335
+#EXTINF:-1 tvg-id="viasat6.hu" tvg-name="HU017:Viasat 6" tvg-logo="" group-title="Hungary",HU017:Viasat 6
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31334
+#EXTINF:-1 tvg-id="" tvg-name="HU018:B92" tvg-logo="" group-title="Hungary",HU018:B92
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31333
+#EXTINF:-1 tvg-id="boomerang.hu" tvg-name="HU019:Boomerang" tvg-logo="" group-title="Hungary",HU019:Boomerang
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31332
+#EXTINF:-1 tvg-id="cartoon.network.hu" tvg-name="HU020:Cartoon Network" tvg-logo="" group-title="Hungary",HU020:Cartoon Network
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31331
+#EXTINF:-1 tvg-id="cbs.reality.hu" tvg-name="HU021:CBS Reality" tvg-logo="" group-title="Hungary",HU021:CBS Reality
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31330
+#EXTINF:-1 tvg-id="cinemax.hu" tvg-name="HU022:Cinemax" tvg-logo="" group-title="Hungary",HU022:Cinemax
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31329
+#EXTINF:-1 tvg-id="cinemax.2.hu" tvg-name="HU023:Cinemax 2" tvg-logo="" group-title="Hungary",HU023:Cinemax 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31328
+#EXTINF:-1 tvg-id="bonum.hu" tvg-name="HU024:Bonum TV" tvg-logo="" group-title="Hungary",HU024:Bonum TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31327
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="HU025:Cool TV" tvg-logo="" group-title="Hungary",HU025:Cool TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31326
+#EXTINF:-1 tvg-id="budapest.europa.hu" tvg-name="HU026:Budapest Európa Televízió" tvg-logo="" group-title="Hungary",HU026:Budapest Európa Televízió
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31325
+#EXTINF:-1 tvg-id="duna.hu" tvg-name="HU027:Dunaújváros Televízió" tvg-logo="" group-title="Hungary",HU027:Dunaújváros Televízió
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31324
+#EXTINF:-1 tvg-id="digi.animal.world.hu" tvg-name="HU028:Digi Animal World HD" tvg-logo="" group-title="Hungary",HU028:Digi Animal World HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31323
+#EXTINF:-1 tvg-id="" tvg-name="HU029:DIGI Film" tvg-logo="" group-title="Hungary",HU029:DIGI Film
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31322
+#EXTINF:-1 tvg-id="" tvg-name="HU030:Erdely " tvg-logo="" group-title="Hungary",HU030:Erdely 
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31321
+#EXTINF:-1 tvg-id="digi.sport.3.hu" tvg-name="HU031:Digi Sport 3 HD" tvg-logo="" group-title="Hungary",HU031:Digi Sport 3 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31320
+#EXTINF:-1 tvg-id="fehervar.hu" tvg-name="HU032:Fehérvár TV" tvg-logo="" group-title="Hungary",HU032:Fehérvár TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31319
+#EXTINF:-1 tvg-id="h.t.music.hu" tvg-name="HU033:H!T Music Channel" tvg-logo="" group-title="Hungary",HU033:H!T Music Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31318
+#EXTINF:-1 tvg-id="disney.hu" tvg-name="HU034:Disney Channel" tvg-logo="" group-title="Hungary",HU034:Disney Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31317
+#EXTINF:-1 tvg-id="discovery.turbo.xtra.hu" tvg-name="HU035:DTX" tvg-logo="" group-title="Hungary",HU035:DTX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31316
+#EXTINF:-1 tvg-id="duck.hu" tvg-name="HU036:Duck TV" tvg-logo="" group-title="Hungary",HU036:Duck TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31315
+#EXTINF:-1 tvg-id="duna.hu" tvg-name="HU037:DUNA FHD" tvg-logo="" group-title="Hungary",HU037:DUNA FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31314
+#EXTINF:-1 tvg-id="duna.world.hu" tvg-name="HU038:Duna World HD" tvg-logo="" group-title="Hungary",HU038:Duna World HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31313
+#EXTINF:-1 tvg-id="kiwi.hu" tvg-name="HU039:Kiwi TV" tvg-logo="" group-title="Hungary",HU039:Kiwi TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31312
+#EXTINF:-1 tvg-id="eurosport.1.hu" tvg-name="HU040:EUROSPORT 1" tvg-logo="" group-title="Hungary",HU040:EUROSPORT 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31311
+#EXTINF:-1 tvg-id="eurosport.2.hu" tvg-name="HU041:EUROSPORT 2" tvg-logo="" group-title="Hungary",HU041:EUROSPORT 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31310
+#EXTINF:-1 tvg-id="extreme.sports.hu" tvg-name="HU042:Extreme Sports" tvg-logo="" group-title="Hungary",HU042:Extreme Sports
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31309
+#EXTINF:-1 tvg-id="kapos.hu" tvg-name="HU043:Kapos TV" tvg-logo="" group-title="Hungary",HU043:Kapos TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31308
+#EXTINF:-1 tvg-id="fem3.hu" tvg-name="HU044:FEM 3" tvg-logo="" group-title="Hungary",HU044:FEM 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31307
+#EXTINF:-1 tvg-id="" tvg-name="HU045:Film 1" tvg-logo="" group-title="Hungary",HU045:Film 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31306
+#EXTINF:-1 tvg-id="film.cafe.hu" tvg-name="HU046:Film Cafe" tvg-logo="" group-title="Hungary",HU046:Film Cafe
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31305
+#EXTINF:-1 tvg-id="" tvg-name="HU047:Lóverseny közvetítés" tvg-logo="" group-title="Hungary",HU047:Lóverseny közvetítés
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31304
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="HU048:TV2 HD" tvg-logo="" group-title="Hungary",HU048:TV2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31303
+#EXTINF:-1 tvg-id="" tvg-name="HU049:Pannon RTV" tvg-logo="" group-title="Hungary",HU049:Pannon RTV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31302
+#EXTINF:-1 tvg-id="" tvg-name="HU050:StreamSport" tvg-logo="" group-title="Hungary",HU050:StreamSport
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31301
+#EXTINF:-1 tvg-id="filmbox.premium.hu" tvg-name="HU051:FILMBOX PREMIUM" tvg-logo="" group-title="Hungary",HU051:FILMBOX PREMIUM
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31300
+#EXTINF:-1 tvg-id="fix.hu" tvg-name="HU052:Fix HD" tvg-logo="" group-title="Hungary",HU052:Fix HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31299
+#EXTINF:-1 tvg-id="" tvg-name="HU053:Tatai TV" tvg-logo="" group-title="Hungary",HU053:Tatai TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31298
+#EXTINF:-1 tvg-id="galaxy4.hu" tvg-name="HU054:Galaxy 4" tvg-logo="" group-title="Hungary",HU054:Galaxy 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31297
+#EXTINF:-1 tvg-id="" tvg-name="HU055:Happy Channel" tvg-logo="" group-title="Hungary",HU055:Happy Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31296
+#EXTINF:-1 tvg-id="" tvg-name="HU056:HBO 1" tvg-logo="" group-title="Hungary",HU056:HBO 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31295
+#EXTINF:-1 tvg-id="" tvg-name="HU057:HBO 2 HD" tvg-logo="" group-title="Hungary",HU057:HBO 2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31294
+#EXTINF:-1 tvg-id="" tvg-name="HU058:HBO 3" tvg-logo="" group-title="Hungary",HU058:HBO 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31293
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-name="HU059:Viasat 3" tvg-logo="" group-title="Hungary",HU059:Viasat 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31292
+#EXTINF:-1 tvg-id="hir.hu" tvg-name="HU060:Hir TV" tvg-logo="" group-title="Hungary",HU060:Hir TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31291
+#EXTINF:-1 tvg-id="history.hu" tvg-name="HU061:HISTORY" tvg-logo="" group-title="Hungary",HU061:HISTORY
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31290
+#EXTINF:-1 tvg-id="" tvg-name="HU062:Ózdi Városi TV" tvg-logo="" group-title="Hungary",HU062:Ózdi Városi TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31289
+#EXTINF:-1 tvg-id="humor+.hu" tvg-name="HU063:Humor" tvg-logo="" group-title="Hungary",HU063:Humor
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31288
+#EXTINF:-1 tvg-id="investigation.discovery.hu" tvg-name="HU064:ID HD" tvg-logo="" group-title="Hungary",HU064:ID HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31287
+#EXTINF:-1 tvg-id="" tvg-name="HU065:Jednotka" tvg-logo="" group-title="Hungary",HU065:Jednotka
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31286
+#EXTINF:-1 tvg-id="jimjam.hu" tvg-name="HU066:JimJam TV" tvg-logo="" group-title="Hungary",HU066:JimJam TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31285
+#EXTINF:-1 tvg-id="budapest.europa.hu" tvg-name="HU067:Budapest" tvg-logo="" group-title="Hungary",HU067:Budapest
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31284
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-name="HU068:Mozi" tvg-logo="" group-title="Hungary",HU068:Mozi
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31283
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="HU069:M1 HD" tvg-logo="" group-title="Hungary",HU069:M1 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31282
+#EXTINF:-1 tvg-id="m2.petofi.hu" tvg-name="HU070:M2 HD" tvg-logo="" group-title="Hungary",HU070:M2 HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31281
+#EXTINF:-1 tvg-id="viasat.history.hu" tvg-name="HU071:Viasat History" tvg-logo="" group-title="Hungary",HU071:Viasat History
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31280
+#EXTINF:-1 tvg-id="m4.sport.hu" tvg-name="HU072:M4" tvg-logo="" group-title="Hungary",HU072:M4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31279
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="HU073:M5" tvg-logo="" group-title="Hungary",HU073:M5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31278
+#EXTINF:-1 tvg-id="megamax.hu" tvg-name="HU074:Megamax" tvg-logo="" group-title="Hungary",HU074:Megamax
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31277
+#EXTINF:-1 tvg-id="minimax.hu" tvg-name="HU075:Minimax" tvg-logo="" group-title="Hungary",HU075:Minimax
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31276
+#EXTINF:-1 tvg-id="m4.sport.hu" tvg-name="HU076:M4 Sport" tvg-logo="" group-title="Hungary",HU076:M4 Sport
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31275
+#EXTINF:-1 tvg-id="mtv.europe.hu" tvg-name="HU077:MTV EU" tvg-logo="" group-title="Hungary",HU077:MTV EU
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31274
+#EXTINF:-1 tvg-id="music.hu" tvg-name="HU078:Music Channel" tvg-logo="" group-title="Hungary",HU078:Music Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31273
+#EXTINF:-1 tvg-id="" tvg-name="HU079:Muzsika TV" tvg-logo="" group-title="Hungary",HU079:Muzsika TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31272
+#EXTINF:-1 tvg-id="national.geographic.hu" tvg-name="HU080:NAT GEO HD" tvg-logo="" group-title="Hungary",HU080:NAT GEO HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31271
+#EXTINF:-1 tvg-id="national.geographic.wild.hu" tvg-name="HU081:NAT GEO Wild HD" tvg-logo="" group-title="Hungary",HU081:NAT GEO Wild HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31270
+#EXTINF:-1 tvg-id="nickelodeon.hu" tvg-name="HU082:Nickelodeon" tvg-logo="" group-title="Hungary",HU082:Nickelodeon
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31269
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-name="HU083:Mozi" tvg-logo="" group-title="Hungary",HU083:Mozi
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31268
+#EXTINF:-1 tvg-id="" tvg-name="HU084:AXN White" tvg-logo="" group-title="Hungary",HU084:AXN White
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31267
+#EXTINF:-1 tvg-id="" tvg-name="HU085:Nova Cinema" tvg-logo="" group-title="Hungary",HU085:Nova Cinema
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31266
+#EXTINF:-1 tvg-id="paramount.hu" tvg-name="HU086:Paramount Channel" tvg-logo="" group-title="Hungary",HU086:Paramount Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31265
+#EXTINF:-1 tvg-id="" tvg-name="HU087:Prima Cool" tvg-logo="" group-title="Hungary",HU087:Prima Cool
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31264
+#EXTINF:-1 tvg-id="" tvg-name="HU088:Prima Love" tvg-logo="" group-title="Hungary",HU088:Prima Love
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31263
+#EXTINF:-1 tvg-id="" tvg-name="HU089:Prima TV" tvg-logo="" group-title="Hungary",HU089:Prima TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31262
+#EXTINF:-1 tvg-id="prime.hu" tvg-name="HU090:Prime" tvg-logo="" group-title="Hungary",HU090:Prime
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31261
+#EXTINF:-1 tvg-id="" tvg-name="HU091:RTL" tvg-logo="" group-title="Hungary",HU091:RTL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31260
+#EXTINF:-1 tvg-id="rtl.klub.hu" tvg-name="HU092:Rtl klub" tvg-logo="" group-title="Hungary",HU092:Rtl klub
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31259
+#EXTINF:-1 tvg-id="lichi.hu" tvg-name="HU093:Chili TV" tvg-logo="" group-title="Hungary",HU093:Chili TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31258
+#EXTINF:-1 tvg-id="sorozat+.hu" tvg-name="HU094:Sorozat" tvg-logo="" group-title="Hungary",HU094:Sorozat
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31257
+#EXTINF:-1 tvg-id="spektrum.hu" tvg-name="HU095:Spektrum HD" tvg-logo="" group-title="Hungary",HU095:Spektrum HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31256
+#EXTINF:-1 tvg-id="spektrum.home.hu" tvg-name="HU096:SPEKTRUM HOME" tvg-logo="" group-title="Hungary",HU096:SPEKTRUM HOME
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31255
+#EXTINF:-1 tvg-id="" tvg-name="HU097:Spiler TV" tvg-logo="" group-title="Hungary",HU097:Spiler TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31254
+#EXTINF:-1 tvg-id="" tvg-name="HU098:Sport 1 FHD" tvg-logo="" group-title="Hungary",HU098:Sport 1 FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31253
+#EXTINF:-1 tvg-id="" tvg-name="HU099:Sport 2 FHD" tvg-logo="" group-title="Hungary",HU099:Sport 2 FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31252
+#EXTINF:-1 tvg-id="story4.hu" tvg-name="HU100:Story 4" tvg-logo="" group-title="Hungary",HU100:Story 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31251
+#EXTINF:-1 tvg-id="super.tv2.hu" tvg-name="HU101:Super TV 2" tvg-logo="" group-title="Hungary",HU101:Super TV 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31250
+#EXTINF:-1 tvg-id="" tvg-name="HU102:TA3" tvg-logo="" group-title="Hungary",HU102:TA3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31249
+#EXTINF:-1 tvg-id="tlc.hu" tvg-name="HU103:TLC" tvg-logo="" group-title="Hungary",HU103:TLC
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31248
+#EXTINF:-1 tvg-id="travel.hu" tvg-name="HU104:Travel Channel" tvg-logo="" group-title="Hungary",HU104:Travel Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31247
+#EXTINF:-1 tvg-id="" tvg-name="HU105:TV Barrandov" tvg-logo="" group-title="Hungary",HU105:TV Barrandov
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31246
+#EXTINF:-1 tvg-id="" tvg-name="HU106:TV Doma" tvg-logo="" group-title="Hungary",HU106:TV Doma
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31245
+#EXTINF:-1 tvg-id="" tvg-name="HU107:TV JOJ" tvg-logo="" group-title="Hungary",HU107:TV JOJ
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31244
+#EXTINF:-1 tvg-id="" tvg-name="HU108:TV Nova" tvg-logo="" group-title="Hungary",HU108:TV Nova
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31243
+#EXTINF:-1 tvg-id="tv.paprika.hu" tvg-name="HU109:TV Paprika" tvg-logo="" group-title="Hungary",HU109:TV Paprika
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/31242
+#EXTINF:-1 tvg-id="" tvg-name="------|xxx-VIP|------" tvg-logo="" group-title="XXX-VIP",------|xxx-VIP|------
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2986
+#EXTINF:-1 tvg-id="" tvg-name="VIP001:Pinko TV" tvg-logo="" group-title="XXX-VIP",VIP001:Pinko TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2985
+#EXTINF:-1 tvg-id="" tvg-name="VIP002:Erotic XXX" tvg-logo="" group-title="XXX-VIP",VIP002:Erotic XXX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2984
+#EXTINF:-1 tvg-id="" tvg-name="VIP003:PlayBoy TV" tvg-logo="" group-title="XXX-VIP",VIP003:PlayBoy TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2983
+#EXTINF:-1 tvg-id="" tvg-name="VIP004:Hustler TV" tvg-logo="" group-title="XXX-VIP",VIP004:Hustler TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2982
+#EXTINF:-1 tvg-id="" tvg-name="VIP005:JASMIN.TV" tvg-logo="" group-title="XXX-VIP",VIP005:JASMIN.TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2981
+#EXTINF:-1 tvg-id="" tvg-name="VIP006:French Lover" tvg-logo="" group-title="XXX-VIP",VIP006:French Lover
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2980
+#EXTINF:-1 tvg-id="" tvg-name="VIP007:Venus HD" tvg-logo="" group-title="XXX-VIP",VIP007:Venus HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2979
+#EXTINF:-1 tvg-id="" tvg-name="VIP008:DUSK" tvg-logo="" group-title="XXX-VIP",VIP008:DUSK
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2978
+#EXTINF:-1 tvg-id="" tvg-name="VIP009:Brazzers" tvg-logo="" group-title="XXX-VIP",VIP009:Brazzers
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2977
+#EXTINF:-1 tvg-id="" tvg-name="VIP010:Passie XXX" tvg-logo="" group-title="XXX-VIP",VIP010:Passie XXX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2976
+#EXTINF:-1 tvg-id="" tvg-name="VIP011:Penthouse" tvg-logo="" group-title="XXX-VIP",VIP011:Penthouse
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2975
+#EXTINF:-1 tvg-id="" tvg-name="VIP012:Maidenvan Holland" tvg-logo="" group-title="XXX-VIP",VIP012:Maidenvan Holland
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2974
+#EXTINF:-1 tvg-id="" tvg-name="VIP013:Superone" tvg-logo="" group-title="XXX-VIP",VIP013:Superone
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2973
+#EXTINF:-1 tvg-id="" tvg-name="VIP014:Babes 1" tvg-logo="" group-title="XXX-VIP",VIP014:Babes 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2972
+#EXTINF:-1 tvg-id="" tvg-name="VIP015:Babes 2" tvg-logo="" group-title="XXX-VIP",VIP015:Babes 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2971
+#EXTINF:-1 tvg-id="" tvg-name="VIP016:Babes 3" tvg-logo="" group-title="XXX-VIP",VIP016:Babes 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2970
+#EXTINF:-1 tvg-id="" tvg-name="VIP017:Babes 4" tvg-logo="" group-title="XXX-VIP",VIP017:Babes 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2969
+#EXTINF:-1 tvg-id="" tvg-name="VIP018:Babes 5" tvg-logo="" group-title="XXX-VIP",VIP018:Babes 5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2968
+#EXTINF:-1 tvg-id="" tvg-name="VIP019:Babes 6" tvg-logo="" group-title="XXX-VIP",VIP019:Babes 6
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2967
+#EXTINF:-1 tvg-id="" tvg-name="VIP020:Babes 8" tvg-logo="" group-title="XXX-VIP",VIP020:Babes 8
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2966
+#EXTINF:-1 tvg-id="" tvg-name="VIP021:Babes 9" tvg-logo="" group-title="XXX-VIP",VIP021:Babes 9
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2965
+#EXTINF:-1 tvg-id="" tvg-name="VIP022:CENTO XCENTO" tvg-logo="" group-title="XXX-VIP",VIP022:CENTO XCENTO
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2964
+#EXTINF:-1 tvg-id="" tvg-name="VIP023:Erotic 2" tvg-logo="" group-title="XXX-VIP",VIP023:Erotic 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2963
+#EXTINF:-1 tvg-id="" tvg-name="VIP024:Erotic 3" tvg-logo="" group-title="XXX-VIP",VIP024:Erotic 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2962
+#EXTINF:-1 tvg-id="" tvg-name="VIP025:Erotic 7" tvg-logo="" group-title="XXX-VIP",VIP025:Erotic 7
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2961
+#EXTINF:-1 tvg-id="" tvg-name="VIP026:Erotic 1" tvg-logo="" group-title="XXX-VIP",VIP026:Erotic 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2960
+#EXTINF:-1 tvg-id="" tvg-name="VIP027:Miami TV" tvg-logo="" group-title="XXX-VIP",VIP027:Miami TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2959
+#EXTINF:-1 tvg-id="" tvg-name="VIP028:Red Light" tvg-logo="" group-title="XXX-VIP",VIP028:Red Light
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/2958
+#EXTINF:-1 tvg-id="" tvg-name="VIP029:松视3(Sonsee 3)" tvg-logo="" group-title="XXX-VIP",VIP029:松视3(Sonsee 3)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33160
+#EXTINF:-1 tvg-id="" tvg-name="VIP030:完美台(Pandora Perfect)" tvg-logo="" group-title="XXX-VIP",VIP030:完美台(Pandora Perfect)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33159
+#EXTINF:-1 tvg-id="" tvg-name="VIP031:彩虹电影(Rainbow M)" tvg-logo="" group-title="XXX-VIP",VIP031:彩虹电影(Rainbow M)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33158
+#EXTINF:-1 tvg-id="" tvg-name="VIP032:粉红台(Pandora Pink)" tvg-logo="" group-title="XXX-VIP",VIP032:粉红台(Pandora Pink)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33157
+#EXTINF:-1 tvg-id="" tvg-name="VIP035:松視2(Sonsee 2)" tvg-logo="" group-title="XXX-VIP",VIP035:松視2(Sonsee 2)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33156
+#EXTINF:-1 tvg-id="" tvg-name="VIP037:彩虹K(Rainbow K)" tvg-logo="" group-title="XXX-VIP",VIP037:彩虹K(Rainbow K)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33155
+#EXTINF:-1 tvg-id="" tvg-name="VIP038:彩虹E(Rainbow E)" tvg-logo="" group-title="XXX-VIP",VIP038:彩虹E(Rainbow E)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33154
+#EXTINF:-1 tvg-id="" tvg-name="VIP039:HAPPY" tvg-logo="" group-title="XXX-VIP",VIP039:HAPPY
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33153
+#EXTINF:-1 tvg-id="" tvg-name="VIP040:香蕉台(Banana)" tvg-logo="" group-title="XXX-VIP",VIP040:香蕉台(Banana)
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33152
+#EXTINF:-1 tvg-id="" tvg-name="VIP041:SEXTREME" tvg-logo="" group-title="XXX-VIP",VIP041:SEXTREME
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33151
+#EXTINF:-1 tvg-id="" tvg-name="VIP042:XY Plus HD" tvg-logo="" group-title="XXX-VIP",VIP042:XY Plus HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33150
+#EXTINF:-1 tvg-id="" tvg-name="VIP043:Russian Night" tvg-logo="" group-title="XXX-VIP",VIP043:Russian Night
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33149
+#EXTINF:-1 tvg-id="" tvg-name="VIP044:Barely Legal TV" tvg-logo="" group-title="XXX-VIP",VIP044:Barely Legal TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33148
+#EXTINF:-1 tvg-id="" tvg-name="VIP045:Leo TV" tvg-logo="" group-title="XXX-VIP",VIP045:Leo TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33147
+#EXTINF:-1 tvg-id="" tvg-name="VIP046:Vivid TV Europe" tvg-logo="" group-title="XXX-VIP",VIP046:Vivid TV Europe
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33146
+#EXTINF:-1 tvg-id="" tvg-name="VIP047:DUSK!" tvg-logo="" group-title="XXX-VIP",VIP047:DUSK!
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33145
+#EXTINF:-1 tvg-id="" tvg-name="VIP048:Hustler TV" tvg-logo="" group-title="XXX-VIP",VIP048:Hustler TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33144
+#EXTINF:-1 tvg-id="" tvg-name="VIP049:XXL" tvg-logo="" group-title="XXX-VIP",VIP049:XXL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33143
+#EXTINF:-1 tvg-id="" tvg-name="VIP050:Passie XXX" tvg-logo="" group-title="XXX-VIP",VIP050:Passie XXX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33142
+#EXTINF:-1 tvg-id="" tvg-name="VIP051:Passion XXX" tvg-logo="" group-title="XXX-VIP",VIP051:Passion XXX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33141
+#EXTINF:-1 tvg-id="" tvg-name="VIP052:Reality Kings TV" tvg-logo="" group-title="XXX-VIP",VIP052:Reality Kings TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33140
+#EXTINF:-1 tvg-id="" tvg-name="VIP053:Pink O TV" tvg-logo="" group-title="XXX-VIP",VIP053:Pink O TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33139
+#EXTINF:-1 tvg-id="" tvg-name="VIP054:BALKAN EROTIC" tvg-logo="" group-title="XXX-VIP",VIP054:BALKAN EROTIC
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33138
+#EXTINF:-1 tvg-id="" tvg-name="VIP055:Sext & Senso" tvg-logo="" group-title="XXX-VIP",VIP055:Sext & Senso
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33137
+#EXTINF:-1 tvg-id="" tvg-name="VIP056:SCT Classic" tvg-logo="" group-title="XXX-VIP",VIP056:SCT Classic
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33136
+#EXTINF:-1 tvg-id="" tvg-name="VIP057:Brazzers TV" tvg-logo="" group-title="XXX-VIP",VIP057:Brazzers TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33135
+#EXTINF:-1 tvg-id="" tvg-name="VIP058:Dream Porn" tvg-logo="" group-title="XXX-VIP",VIP058:Dream Porn
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33134
+#EXTINF:-1 tvg-id="" tvg-name="VIP059:Brazzers TV Europe Russian" tvg-logo="" group-title="XXX-VIP",VIP059:Brazzers TV Europe Russian
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33133
+#EXTINF:-1 tvg-id="" tvg-name="VIP060:Hot TV" tvg-logo="" group-title="XXX-VIP",VIP060:Hot TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33132
+#EXTINF:-1 tvg-id="" tvg-name="VIP061:Venus TV" tvg-logo="" group-title="XXX-VIP",VIP061:Venus TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33131
+#EXTINF:-1 tvg-id="" tvg-name="VIP062:VENUS_LA1" tvg-logo="" group-title="XXX-VIP",VIP062:VENUS_LA1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33130
+#EXTINF:-1 tvg-id="" tvg-name="VIP063:Sexy HOT" tvg-logo="" group-title="XXX-VIP",VIP063:Sexy HOT
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33129
+#EXTINF:-1 tvg-id="" tvg-name="VIP064:Meiden Van Holland Hard" tvg-logo="" group-title="XXX-VIP",VIP064:Meiden Van Holland Hard
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33128
+#EXTINF:-1 tvg-id="" tvg-name="VIP065:X Bizarre" tvg-logo="" group-title="XXX-VIP",VIP065:X Bizarre
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33127
+#EXTINF:-1 tvg-id="" tvg-name="VIP066:X Desire" tvg-logo="" group-title="XXX-VIP",VIP066:X Desire
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33126
+#EXTINF:-1 tvg-id="" tvg-name="VIP067:X Bunga Bunga" tvg-logo="" group-title="XXX-VIP",VIP067:X Bunga Bunga
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33125
+#EXTINF:-1 tvg-id="" tvg-name="VIP068:Pink Erotic" tvg-logo="" group-title="XXX-VIP",VIP068:Pink Erotic
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33124
+#EXTINF:-1 tvg-id="" tvg-name="VIP069:Pink Erotic 2" tvg-logo="" group-title="XXX-VIP",VIP069:Pink Erotic 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33123
+#EXTINF:-1 tvg-id="" tvg-name="VIP070:Pink Erotic 3" tvg-logo="" group-title="XXX-VIP",VIP070:Pink Erotic 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33122
+#EXTINF:-1 tvg-id="" tvg-name="VIP071:Pink Erotic 4" tvg-logo="" group-title="XXX-VIP",VIP071:Pink Erotic 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33121
+#EXTINF:-1 tvg-id="" tvg-name="VIP072:Pink Erotic 5" tvg-logo="" group-title="XXX-VIP",VIP072:Pink Erotic 5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33120
+#EXTINF:-1 tvg-id="" tvg-name="VIP073:Pink Erotic 6" tvg-logo="" group-title="XXX-VIP",VIP073:Pink Erotic 6
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33119
+#EXTINF:-1 tvg-id="" tvg-name="VIP074:Pink Erotic 7" tvg-logo="" group-title="XXX-VIP",VIP074:Pink Erotic 7
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33118
+#EXTINF:-1 tvg-id="" tvg-name="VIP075:Pink Erotic 8" tvg-logo="" group-title="XXX-VIP",VIP075:Pink Erotic 8
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33117
+#EXTINF:-1 tvg-id="" tvg-name="VIP076:Balkan Erotic" tvg-logo="" group-title="XXX-VIP",VIP076:Balkan Erotic
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33116
+#EXTINF:-1 tvg-id="" tvg-name="VIP077:TenX" tvg-logo="" group-title="XXX-VIP",VIP077:TenX
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33115
+#EXTINF:-1 tvg-id="" tvg-name="VIP078:DORCEL" tvg-logo="" group-title="XXX-VIP",VIP078:DORCEL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33114
+#EXTINF:-1 tvg-id="" tvg-name="VIP079:Bang U" tvg-logo="" group-title="XXX-VIP",VIP079:Bang U
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33113
+#EXTINF:-1 tvg-id="" tvg-name="VIP080:Playboy Europe" tvg-logo="" group-title="XXX-VIP",VIP080:Playboy Europe
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33112
+#EXTINF:-1 tvg-id="" tvg-name="VIP081:Blue Hustler" tvg-logo="" group-title="XXX-VIP",VIP081:Blue Hustler
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33111
+#EXTINF:-1 tvg-id="" tvg-name="VIP082:Hot Pleasure" tvg-logo="" group-title="XXX-VIP",VIP082:Hot Pleasure
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33110
+#EXTINF:-1 tvg-id="" tvg-name="VIP083:French Lover" tvg-logo="" group-title="XXX-VIP",VIP083:French Lover
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33109
+#EXTINF:-1 tvg-id="" tvg-name="VIP084:French Lover Europe" tvg-logo="" group-title="XXX-VIP",VIP084:French Lover Europe
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33108
+#EXTINF:-1 tvg-id="" tvg-name="VIP085:Extrem" tvg-logo="" group-title="XXX-VIP",VIP085:Extrem
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33107
+#EXTINF:-1 tvg-id="" tvg-name="VIP086:BRAZZERS TV EUROPE" tvg-logo="" group-title="XXX-VIP",VIP086:BRAZZERS TV EUROPE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33106
+#EXTINF:-1 tvg-id="" tvg-name="VIP087:Fake Taxi" tvg-logo="" group-title="XXX-VIP",VIP087:Fake Taxi
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33105
+#EXTINF:-1 tvg-id="" tvg-name="VIP088:Emanuelle" tvg-logo="" group-title="XXX-VIP",VIP088:Emanuelle
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33104
+#EXTINF:-1 tvg-id="" tvg-name="VIP089:Bangerz" tvg-logo="" group-title="XXX-VIP",VIP089:Bangerz
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33103
+#EXTINF:-1 tvg-id="" tvg-name="VIP090:BARELY" tvg-logo="" group-title="XXX-VIP",VIP090:BARELY
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33102
+#EXTINF:-1 tvg-id="" tvg-name="VIP091:Blonde Solo" tvg-logo="" group-title="XXX-VIP",VIP091:Blonde Solo
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33101
+#EXTINF:-1 tvg-id="" tvg-name="VIP092:Brunette" tvg-logo="" group-title="XXX-VIP",VIP092:Brunette
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33100
+#EXTINF:-1 tvg-id="" tvg-name="VIP093:Compilation" tvg-logo="" group-title="XXX-VIP",VIP093:Compilation
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33099
+#EXTINF:-1 tvg-id="" tvg-name="VIP094:FAP TV PARODY" tvg-logo="" group-title="XXX-VIP",VIP094:FAP TV PARODY
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33098
+#EXTINF:-1 tvg-id="" tvg-name="VIP095:FAP TV TEENS" tvg-logo="" group-title="XXX-VIP",VIP095:FAP TV TEENS
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33097
+#EXTINF:-1 tvg-id="" tvg-name="VIP096:FAP TV 2" tvg-logo="" group-title="XXX-VIP",VIP096:FAP TV 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33096
+#EXTINF:-1 tvg-id="" tvg-name="VIP097:FAP TV 3" tvg-logo="" group-title="XXX-VIP",VIP097:FAP TV 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33095
+#EXTINF:-1 tvg-id="" tvg-name="VIP098:FAP TV ANAL" tvg-logo="" group-title="XXX-VIP",VIP098:FAP TV ANAL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33094
+#EXTINF:-1 tvg-id="" tvg-name="VIP099:VIVID RED HD" tvg-logo="" group-title="XXX-VIP",VIP099:VIVID RED HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33093
+#EXTINF:-1 tvg-id="" tvg-name="VIP100:ERO-X" tvg-logo="" group-title="XXX-VIP",VIP100:ERO-X
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33092
+#EXTINF:-1 tvg-id="" tvg-name="VIP101:Secret Circle TV" tvg-logo="" group-title="XXX-VIP",VIP101:Secret Circle TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33091
+#EXTINF:-1 tvg-id="" tvg-name="VIP102:Candy TV" tvg-logo="" group-title="XXX-VIP",VIP102:Candy TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33090
+#EXTINF:-1 tvg-id="" tvg-name="VIP103:Penthouse Quickies" tvg-logo="" group-title="XXX-VIP",VIP103:Penthouse Quickies
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33089
+#EXTINF:-1 tvg-id="" tvg-name="VIP104:PRIVATE" tvg-logo="" group-title="XXX-VIP",VIP104:PRIVATE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33088
+#EXTINF:-1 tvg-id="" tvg-name="VIP105:X-MO GAY" tvg-logo="" group-title="XXX-VIP",VIP105:X-MO GAY
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33087
+#EXTINF:-1 tvg-id="" tvg-name="VIP106:Latina" tvg-logo="" group-title="XXX-VIP",VIP106:Latina
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33086
+#EXTINF:-1 tvg-id="" tvg-name="VIP107:Beate Uhse.TV" tvg-logo="" group-title="XXX-VIP",VIP107:Beate Uhse.TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33085
+#EXTINF:-1 tvg-id="" tvg-name="VIP108:XY max" tvg-logo="" group-title="XXX-VIP",VIP108:XY max
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33084
+#EXTINF:-1 tvg-id="" tvg-name="VIP109:Candyman Gay Men" tvg-logo="" group-title="XXX-VIP",VIP109:Candyman Gay Men
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33083
+#EXTINF:-1 tvg-id="" tvg-name="VIP110:Fast Boyz Gay Men" tvg-logo="" group-title="XXX-VIP",VIP110:Fast Boyz Gay Men
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33082
+#EXTINF:-1 tvg-id="" tvg-name="VIP111:France a Poil4" tvg-logo="" group-title="XXX-VIP",VIP111:France a Poil4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33081
+#EXTINF:-1 tvg-id="" tvg-name="VIP112:Jasmin TV" tvg-logo="" group-title="XXX-VIP",VIP112:Jasmin TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33080
+#EXTINF:-1 tvg-id="" tvg-name="VIP113:Secret Circle" tvg-logo="" group-title="XXX-VIP",VIP113:Secret Circle
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33079
+#EXTINF:-1 tvg-id="" tvg-name="VIP114:SEXTO & SENSO" tvg-logo="" group-title="XXX-VIP",VIP114:SEXTO & SENSO
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33078
+#EXTINF:-1 tvg-id="" tvg-name="VIP115:XXX Stars FHD" tvg-logo="" group-title="XXX-VIP",VIP115:XXX Stars FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33077
+#EXTINF:-1 tvg-id="" tvg-name="VIP116:JASMIN.TV HD" tvg-logo="" group-title="XXX-VIP",VIP116:JASMIN.TV HD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33076
+#EXTINF:-1 tvg-id="" tvg-name="VIP117:VIVID RED FHD" tvg-logo="" group-title="XXX-VIP",VIP117:VIVID RED FHD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33075
+#EXTINF:-1 tvg-id="" tvg-name="VIP118:VIVID TV" tvg-logo="" group-title="XXX-VIP",VIP118:VIVID TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33074
+#EXTINF:-1 tvg-id="" tvg-name="VIP119:X-MO" tvg-logo="" group-title="XXX-VIP",VIP119:X-MO
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/33073
+#EXTINF:-1 tvg-id="" tvg-name="VIP120:O-la-la" tvg-logo="" group-title="XXX-VIP",VIP120:O-la-la
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60658
+#EXTINF:-1 tvg-id="" tvg-name="VIP122:Satisfaction_" tvg-logo="" group-title="XXX-VIP",VIP122:Satisfaction_
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60659
+#EXTINF:-1 tvg-id="" tvg-name="VIP123:Evil_Angel" tvg-logo="" group-title="XXX-VIP",VIP123:Evil_Angel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60660
+#EXTINF:-1 tvg-id="" tvg-name="VIP124:XYPlus TV" tvg-logo="" group-title="XXX-VIP",VIP124:XYPlus TV
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60661
+#EXTINF:-1 tvg-id="" tvg-name="VIP125:Gay Channel" tvg-logo="" group-title="XXX-VIP",VIP125:Gay Channel
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60662
+#EXTINF:-1 tvg-id="" tvg-name="VIP126:NUART" tvg-logo="" group-title="XXX-VIP",VIP126:NUART
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60663
+#EXTINF:-1 tvg-id="" tvg-name="VIP127:Penthouse Gold" tvg-logo="" group-title="XXX-VIP",VIP127:Penthouse Gold
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60664
+#EXTINF:-1 tvg-id="" tvg-name="VIP128:Penthouse 2" tvg-logo="" group-title="XXX-VIP",VIP128:Penthouse 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60665
+#EXTINF:-1 tvg-id="" tvg-name="VIP129:Penthouse 1" tvg-logo="" group-title="XXX-VIP",VIP129:Penthouse 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60666
+#EXTINF:-1 tvg-id="" tvg-name="VIP130:Max 1" tvg-logo="" group-title="XXX-VIP",VIP130:Max 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60667
+#EXTINF:-1 tvg-id="" tvg-name="VIP131:HotClub 9" tvg-logo="" group-title="XXX-VIP",VIP131:HotClub 9
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60668
+#EXTINF:-1 tvg-id="" tvg-name="VIP132:HotClub 8" tvg-logo="" group-title="XXX-VIP",VIP132:HotClub 8
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60669
+#EXTINF:-1 tvg-id="" tvg-name="VIP133:HotClub 7" tvg-logo="" group-title="XXX-VIP",VIP133:HotClub 7
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60670
+#EXTINF:-1 tvg-id="" tvg-name="VIP134:HotClub 6" tvg-logo="" group-title="XXX-VIP",VIP134:HotClub 6
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60671
+#EXTINF:-1 tvg-id="" tvg-name="VIP135:HotClub 5" tvg-logo="" group-title="XXX-VIP",VIP135:HotClub 5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60672
+#EXTINF:-1 tvg-id="" tvg-name="VIP136:HotClub 4" tvg-logo="" group-title="XXX-VIP",VIP136:HotClub 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60673
+#EXTINF:-1 tvg-id="" tvg-name="VIP137:HotClub 3" tvg-logo="" group-title="XXX-VIP",VIP137:HotClub 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60674
+#EXTINF:-1 tvg-id="" tvg-name="VIP138:HotClub 2" tvg-logo="" group-title="XXX-VIP",VIP138:HotClub 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60675
+#EXTINF:-1 tvg-id="" tvg-name="VIP139:HotClub 1" tvg-logo="" group-title="XXX-VIP",VIP139:HotClub 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60676
+#EXTINF:-1 tvg-id="" tvg-name="VIP140:SINSATIONS: BLACKED" tvg-logo="" group-title="XXX-VIP",VIP140:SINSATIONS: BLACKED
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60677
+#EXTINF:-1 tvg-id="" tvg-name="VIP141:SINSATIONS: BANGBROS" tvg-logo="" group-title="XXX-VIP",VIP141:SINSATIONS: BANGBROS
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60678
+#EXTINF:-1 tvg-id="" tvg-name="VIP142:SINSATIONS: BANGBROS 2" tvg-logo="" group-title="XXX-VIP",VIP142:SINSATIONS: BANGBROS 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60679
+#EXTINF:-1 tvg-id="" tvg-name="VIP143:SINSATIONS: BLACKED 2" tvg-logo="" group-title="XXX-VIP",VIP143:SINSATIONS: BLACKED 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60680
+#EXTINF:-1 tvg-id="" tvg-name="VIP144:SINSATIONS: CREAMPIE" tvg-logo="" group-title="XXX-VIP",VIP144:SINSATIONS: CREAMPIE
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60681
+#EXTINF:-1 tvg-id="" tvg-name="VIP145:SINSATIONS: CREAMPIE 2" tvg-logo="" group-title="XXX-VIP",VIP145:SINSATIONS: CREAMPIE 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60682
+#EXTINF:-1 tvg-id="" tvg-name="VIP146:SINSATIONS:  GIRLS GONE WILD" tvg-logo="" group-title="XXX-VIP",VIP146:SINSATIONS:  GIRLS GONE WILD
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60683
+#EXTINF:-1 tvg-id="" tvg-name="VIP147:SINSATIONS: GIRLS GONE WILD 2" tvg-logo="" group-title="XXX-VIP",VIP147:SINSATIONS: GIRLS GONE WILD 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60684
+#EXTINF:-1 tvg-id="" tvg-name="VIP148:SINSATIONS: MOFOS" tvg-logo="" group-title="XXX-VIP",VIP148:SINSATIONS: MOFOS
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60685
+#EXTINF:-1 tvg-id="" tvg-name="VIP149:SINSATIONS: MOFOS 2" tvg-logo="" group-title="XXX-VIP",VIP149:SINSATIONS: MOFOS 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60686
+#EXTINF:-1 tvg-id="" tvg-name="VIP150:SINSATIONS: ULTIMATE SURRENDER" tvg-logo="" group-title="XXX-VIP",VIP150:SINSATIONS: ULTIMATE SURRENDER
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60687
+#EXTINF:-1 tvg-id="" tvg-name="VIP151:SINSATIONS: DOUBLE DIP" tvg-logo="" group-title="XXX-VIP",VIP151:SINSATIONS: DOUBLE DIP
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60688
+#EXTINF:-1 tvg-id="" tvg-name="VIP152:SINSATIONS: DOUBLE DIP 2" tvg-logo="" group-title="XXX-VIP",VIP152:SINSATIONS: DOUBLE DIP 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60689
+#EXTINF:-1 tvg-id="" tvg-name="VIP153:SINSATIONS: FAMILY STROKES" tvg-logo="" group-title="XXX-VIP",VIP153:SINSATIONS: FAMILY STROKES
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60690
+#EXTINF:-1 tvg-id="" tvg-name="VIP154:SINSATIONS: XTRASMALL" tvg-logo="" group-title="XXX-VIP",VIP154:SINSATIONS: XTRASMALL
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60691
+#EXTINF:-1 tvg-id="" tvg-name="VIP155:SINSATIONS: NETWORK 2" tvg-logo="" group-title="XXX-VIP",VIP155:SINSATIONS: NETWORK 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60692
+#EXTINF:-1 tvg-id="" tvg-name="VIP156:SINSATIONS: NETWORK 1" tvg-logo="" group-title="XXX-VIP",VIP156:SINSATIONS: NETWORK 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60693
+#EXTINF:-1 tvg-id="" tvg-name="VIP157:SINSATIONS: NETWORK 3" tvg-logo="" group-title="XXX-VIP",VIP157:SINSATIONS: NETWORK 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60694
+#EXTINF:-1 tvg-id="" tvg-name="VIP158:CZECH STREETS F" tvg-logo="" group-title="XXX-VIP",VIP158:CZECH STREETS F
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60695
+#EXTINF:-1 tvg-id="" tvg-name="VIP159:ALBA 6" tvg-logo="" group-title="XXX-VIP",VIP159:ALBA 6
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60696
+#EXTINF:-1 tvg-id="" tvg-name="VIP160:ALBA 5" tvg-logo="" group-title="XXX-VIP",VIP160:ALBA 5
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60697
+#EXTINF:-1 tvg-id="" tvg-name="VIP161:ALBA 4" tvg-logo="" group-title="XXX-VIP",VIP161:ALBA 4
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60698
+#EXTINF:-1 tvg-id="" tvg-name="VIP162:ALBA 3" tvg-logo="" group-title="XXX-VIP",VIP162:ALBA 3
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60699
+#EXTINF:-1 tvg-id="" tvg-name="VIP163:ALBA 2" tvg-logo="" group-title="XXX-VIP",VIP163:ALBA 2
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60700
+#EXTINF:-1 tvg-id="" tvg-name="VIP164:ALBA 1" tvg-logo="" group-title="XXX-VIP",VIP164:ALBA 1
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60701
+#EXTINF:-1 tvg-id="" tvg-name="VIP165:SEXT6SENSO" tvg-logo="" group-title="XXX-VIP",VIP165:SEXT6SENSO
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60702
+#EXTINF:-1 tvg-id="" tvg-name="VIP166:VIP:Russian" tvg-logo="" group-title="XXX-VIP",VIP166:VIP:Russian
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60703
+#EXTINF:-1 tvg-id="" tvg-name="VIP167:VIP:Threesome" tvg-logo="" group-title="XXX-VIP",VIP167:VIP:Threesome
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60704
+#EXTINF:-1 tvg-id="" tvg-name="VIP168:VIP:Cuckold" tvg-logo="" group-title="XXX-VIP",VIP168:VIP:Cuckold
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60705
+#EXTINF:-1 tvg-id="" tvg-name="VIP170:VIP:Teen" tvg-logo="" group-title="XXX-VIP",VIP170:VIP:Teen
+http://e8.gogoo.live:8880/test32/AjpqugeEPV/60706
+
